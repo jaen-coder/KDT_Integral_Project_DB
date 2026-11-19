@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 130,
+  "count": 10,
+  "next_offset": 140,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14498242525",
+      "date": "2026-09-01T15:24:34Z",
+      "rating": 1,
+      "title": "Mtfk ceo",
+      "body": "Bad experience",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14497667092",
+      "date": "2026-09-01T12:36:25Z",
+      "rating": 1,
+      "title": "카카오톡 따라하나",
+      "body": "보기싫은 릴스 탭 해제도 안ㄷ히고 강제로 박아놓고 너희는 유튜브가 아니야",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14497146846",
+      "date": "2026-09-01T09:39:02Z",
+      "rating": 1,
+      "title": "왜 메타는 2단계 인증만 과도하게 맹신합니까?",
+      "body": "Meta의 보안 및 고객지원 체계는 완전히 마비된 상태입니다.\n\n보안 시스템의 치명적 결함: 해커가 타인의 계정에 무단 침입해 2단계 인증(OTP)을 강제 등록하면, 계정 소유자가 본인 소유의 휴대폰 SMS 인증을 성공해도 해커가 걸어둔 2FA 벽에 막혀 계정을 찾을 수 없는 기이한 구조입니다. 해킹 방지는커녕 해커의 권한만 철저히 보호해 주는 꼴입니다.\n\n유료 구독자(Meta Verified) 기만: 유료 서비스를 구독해도 제대로 된 사람 상담원과의 연결은 사실상 불가능하며, 챗봇은 무의미한 템플릿 답변과 뺑뺑이만 반복합니다. 심지어 복구를 시도하는 사용자에게 '과도한 요청'이라며 시스템 차단(Lockout)을 걸어버리는 무책임함의 극치를 보여줍니다.\n\n소통 창구 부재: 수억 명의 이용자를 보유한 거대 IT 기업임에도 불구하고, 심각한 계정 피해 발생 시 신분증을 제출해 수동으로 본인을 확인할 수 있는 최소한의 창구조차 제대로 작동하지 않습니다.\n\n서비스의 규모와 명성에 전혀 걸맞지 않은 최악의 사용자 경험입니다. 보안 매커니즘 전체와 고객지원 프로세스의 전면적인 개편이 시급합니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14496759558",
+      "date": "2026-09-01T06:56:08Z",
+      "rating": 1,
+      "title": "Quá nhiều quảng cáo",
+      "body": "Quảng cáo càng ngày càng nhiều. Chưa đầy 2p lại có 2quảng cáo liên tiếp… càng ngày càng tệ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14496036544",
+      "date": "2026-09-01T01:39:36Z",
+      "rating": 5,
+      "title": "Cảm nhận",
+      "body": "Sịn sò lắm nha",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14492335245",
+      "date": "2026-08-31T03:17:23Z",
+      "rating": 5,
+      "title": "남사당패",
+      "body": "얼씨구 절씨구 잘 나간가",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14491914093",
+      "date": "2026-08-31T00:29:25Z",
+      "rating": 5,
+      "title": "Recommended for Biz",
+      "body": "Very accessible and dependable. Have proctection policies",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14488351202",
+      "date": "2026-08-30T03:08:44Z",
+      "rating": 1,
+      "title": "AI 무고 정지",
+      "body": "AI 눈에는 뭐가 뭐로 보이길래 일상생활 올라간 것도 정지를 시키네요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14487759245",
+      "date": "2026-08-29T23:10:37Z",
+      "rating": 5,
+      "title": "Niềm vui mỗi ngày",
+      "body": "Mang lại nhiều sự tích cực trong cs của tôi",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14485775103",
+      "date": "2026-08-29T12:24:09Z",
+      "rating": 1,
+      "title": "System/Security Issue",
+      "body": "My account  and messenger keep logging out!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

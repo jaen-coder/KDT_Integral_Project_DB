@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 320,
+  "count": 10,
+  "next_offset": 330,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14148977809",
+      "date": "2026-06-06T02:03:55Z",
+      "rating": 5,
+      "title": "좀아요",
+      "body": "괜찬아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14146016410",
+      "date": "2026-06-05T09:03:28Z",
+      "rating": 1,
+      "title": "Baaad",
+      "body": "Bad",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14145067999",
+      "date": "2026-06-05T01:49:57Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14144705437",
+      "date": "2026-06-04T23:20:53Z",
+      "rating": 5,
+      "title": "Good experience",
+      "body": "I like it while using content and while messaging and calling or chatting.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14143201425",
+      "date": "2026-06-04T14:47:05Z",
+      "rating": 1,
+      "title": "해킹당한 계정 어떡하라구요",
+      "body": "중국인한테 해킹당했습니다. 그래서 문의했더니 담당자 사람은 없고 ai가 응대하네요. 알려준 방법 전부 안되고 번호랑 이메일 다 해커가 바꿔서 계정도 못찾고 복구도 안되고 30분째 ai한테 안된다니까 어쩔 수 없다네요 ㅋ...\n\n우요한 -> Ri ven 으로 바뀐 계정 삭제해주세요 제발...",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14127329088",
+      "date": "2026-05-31T13:45:23Z",
+      "rating": 2,
+      "title": "iPad App Frozen",
+      "body": "It still has bugs in the iPad App. Please diagnose and try to release the new version",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14126592284",
+      "date": "2026-05-31T09:21:14Z",
+      "rating": 4,
+      "title": "좋아요~~~",
+      "body": "개인정보 보안 철저히 해주시면 더 좋겠습니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14126123937",
+      "date": "2026-05-31T06:00:03Z",
+      "rating": 4,
+      "title": "👍",
+      "body": "👍",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14126067190",
+      "date": "2026-05-31T05:34:09Z",
+      "rating": 5,
+      "title": "Great",
+      "body": "Great",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14124888464",
+      "date": "2026-05-30T21:29:12Z",
+      "rating": 5,
+      "title": "❤️",
+      "body": "❤️",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

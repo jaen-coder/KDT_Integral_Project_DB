@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 210,
+  "count": 10,
+  "next_offset": 220,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14350591037",
+      "date": "2026-07-26T14:39:26Z",
+      "rating": 1,
+      "title": "뒤로가기 스와이프 업데이트 롤백",
+      "body": "스와이프로 뒤로가기하는게 화면 끝에서부터 시작해야 동작하도록 업데이트 된 것 같은데 한손으로 페북을 하기에 최악으로 불편합니다. 롤백해주세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14348764840",
+      "date": "2026-07-26T03:07:36Z",
+      "rating": 5,
+      "title": "Mantap",
+      "body": "Mantap👍🏻",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14346749604",
+      "date": "2026-07-25T14:55:23Z",
+      "rating": 1,
+      "title": "experiencing a translation",
+      "body": "Hello Facebook Team,\n\nI am experiencing a translation issue on Facebook. The translation feature is not working correctly.\n\nMany posts and comments are being translated into Chinese instead of my preferred language. My iPhone language is set correctly, and I have already tried changing the language settings, reinstalling the Facebook app, and resetting my device settings, but the problem still persists.\n\nPlease investigate and fix this issue. Thank you.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14346530781",
+      "date": "2026-07-25T13:51:56Z",
+      "rating": 1,
+      "title": "비활성화가 갑자기 되서 안됩니다",
+      "body": "로그인이 안되요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14341403067",
+      "date": "2026-07-24T06:54:13Z",
+      "rating": 5,
+      "title": "강변나루캠핑장 비가많이 올수록 물먼때리기 좋은곳",
+      "body": "조용하고 야경이 멋지다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14338739804",
+      "date": "2026-07-23T14:50:12Z",
+      "rating": 1,
+      "title": "tin nhắn bị khoá",
+      "body": "không làm gì cũng khoá tin nhắn người ta , làm ăn cẩu thả vô duyên , xét duyệt bậy bạ , để người ta mất bao nhiêu thời gian chờ đợi 😏",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14338415836",
+      "date": "2026-07-23T13:19:49Z",
+      "rating": 5,
+      "title": "일본여행  후쿠오카",
+      "body": "신선하고 깔끔 도시",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14334443130",
+      "date": "2026-07-22T13:47:39Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "Burn to reduce",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14334142546",
+      "date": "2026-07-22T12:18:02Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "Rất nhiều thông tin hữu ích trong cuộc sống.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14333177269",
+      "date": "2026-07-22T06:01:13Z",
+      "rating": 5,
+      "title": "친구와 소통",
+      "body": "우주가을 끼리 끼리 자신이 소중하다고 생각 되고 모든 것은 자신의 선택에ㅡ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

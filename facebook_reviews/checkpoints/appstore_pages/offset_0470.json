@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 470,
+  "count": 10,
+  "next_offset": 480,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13816275630",
+      "date": "2026-03-05T13:53:49Z",
+      "rating": 1,
+      "title": "페이스북",
+      "body": "계정 해킹 당해서 모르는 사람 프로필로 변경되었는데 제 원래 계정 어떻게 되찾는거죠",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13810836252",
+      "date": "2026-03-03T22:24:02Z",
+      "rating": 1,
+      "title": "삭제 된 사진을 보름 후에 제재",
+      "body": "미친 것들 삭제 된 사진까지 제재 하는 것은 너무 심 하잖아 그것도 한달 가까이 된 삭제 된 사진이대  진짜 꼴깝떨고 있다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13808480311",
+      "date": "2026-03-03T06:43:38Z",
+      "rating": 5,
+      "title": "병상의 일상",
+      "body": "병상에서 페이스북이 삶을 익여내는데 큰 도움이 되어내요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13804847454",
+      "date": "2026-03-02T05:30:48Z",
+      "rating": 2,
+      "title": "가짜 계정의 천국",
+      "body": "돈벌이가",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13804451303",
+      "date": "2026-03-02T02:27:17Z",
+      "rating": 5,
+      "title": "Cuộc sống",
+      "body": "Love facebook",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13803400215",
+      "date": "2026-03-01T19:31:23Z",
+      "rating": 4,
+      "title": "Everything",
+      "body": "Satisfy",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13797228138",
+      "date": "2026-02-28T04:16:28Z",
+      "rating": 5,
+      "title": "good",
+      "body": "good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13796954926",
+      "date": "2026-02-28T02:25:00Z",
+      "rating": 5,
+      "title": "Health videos",
+      "body": "Best health videos",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13786431945",
+      "date": "2026-02-25T05:45:31Z",
+      "rating": 5,
+      "title": "나의 일기장",
+      "body": "나의 메모장이자 일기장 계속 기록 하면서 facebook 함께 추억을 만들어 가겠습니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13786344188",
+      "date": "2026-02-25T05:01:18Z",
+      "rating": 5,
+      "title": ".",
+      "body": "별 한개 주기도 아까운데 떠야하니까.. 계정 삭제 하는거 좀 쉽게 해주세요 ㅈㅂ 그리고 비번이 맞는데 계속 아니래요 답답해죽겠음",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

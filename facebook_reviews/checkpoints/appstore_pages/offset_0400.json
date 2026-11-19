@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 400,
+  "count": 10,
+  "next_offset": 410,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13987975492",
+      "date": "2026-04-23T09:45:57Z",
+      "rating": 5,
+      "title": "제주 사오월 Tea cafe",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13985447712",
+      "date": "2026-04-22T15:09:24Z",
+      "rating": 5,
+      "title": "อย่าบล็อกเฟสบ่อย",
+      "body": "ช่วงนี้โดนตรวจสอบกันถ้วนหน้า",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13984821165",
+      "date": "2026-04-22T11:48:01Z",
+      "rating": 5,
+      "title": "Quá tuyệt vời",
+      "body": "Rất hữu dụng cho tôi",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13983030440",
+      "date": "2026-04-21T21:56:51Z",
+      "rating": 5,
+      "title": "페북이라….",
+      "body": "ㅎㅎㅎ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13978687368",
+      "date": "2026-04-20T15:48:34Z",
+      "rating": 1,
+      "title": "무고밴 하",
+      "body": "며칠전에 광고돌리는데 얼굴인증하라길래 함 근데 뭔 48시간뒤에 결과나온다면서 기다리라길래 기다렸더니 페이지 하나 사라지고 광고들 오류떠서 다시만들고\n지금 다시만드는 도중에 또 ㅈㄹ나서 하\n페이지 또 사라지겠네 광고 돌리지마라는거냐",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13976799761",
+      "date": "2026-04-20T02:13:55Z",
+      "rating": 1,
+      "title": "Do not steal my audio.",
+      "body": "You are damn pirate stealing my audio permissions. Don’t do this vulgar action.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13975289117",
+      "date": "2026-04-19T16:25:01Z",
+      "rating": 5,
+      "title": "리블",
+      "body": "잘애용하고 있습니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13974677545",
+      "date": "2026-04-19T13:16:17Z",
+      "rating": 5,
+      "title": "Kiếm tiền từ nội dung",
+      "body": "Đồng ý cho tôi với",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13972847596",
+      "date": "2026-04-19T00:14:55Z",
+      "rating": 5,
+      "title": "สนุกมาก",
+      "body": "ทั้งสนุกทั้งได้เงิน",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13971581486",
+      "date": "2026-04-18T16:11:35Z",
+      "rating": 4,
+      "title": "리뷰.",
+      "body": "좀 지루해진 편임",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

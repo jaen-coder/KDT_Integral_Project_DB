@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 150,
+  "count": 10,
+  "next_offset": 160,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14469647140",
+      "date": "2026-08-25T09:29:26Z",
+      "rating": 5,
+      "title": "첫게시글",
+      "body": "아직 잘 모르지만 만족스러워요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14469479553",
+      "date": "2026-08-25T08:19:52Z",
+      "rating": 5,
+      "title": "내 삶의 기록",
+      "body": "하루 하루 돌아볼 수 있어 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14468107822",
+      "date": "2026-08-24T22:43:22Z",
+      "rating": 5,
+      "title": "บล๊กฉันทำไม",
+      "body": "ได้โปรดอย่าใจร้ายกับฉันเลย อย่าบล็อกฉัน",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14466221183",
+      "date": "2026-08-24T12:18:58Z",
+      "rating": 5,
+      "title": "tôi rất biết ơn người đã sáng tạo ra Facebook để cho tôi học hỏi nhiều điều thú vị hơn.",
+      "body": "rất thú vị",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14465894019",
+      "date": "2026-08-24T10:22:05Z",
+      "rating": 5,
+      "title": "Good luck",
+      "body": "☝️🤭👍",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14460979311",
+      "date": "2026-08-23T02:45:59Z",
+      "rating": 2,
+      "title": "광고가 너무너무 많아요",
+      "body": "광고가 너무너무 많아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14459439036",
+      "date": "2026-08-22T17:02:59Z",
+      "rating": 5,
+      "title": "Nhận xét tích cực",
+      "body": "Học hỏi kinh nghiệm,tìm hiểu tin tức",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14457479568",
+      "date": "2026-08-22T05:24:57Z",
+      "rating": 1,
+      "title": "정치적 추천을 너무 많이하네",
+      "body": "대가리가 깨져도 이재명을 지지하는 페이스북",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14456840534",
+      "date": "2026-08-22T01:00:12Z",
+      "rating": 4,
+      "title": "Facebook Messenger",
+      "body": "ฉันมักจะมีปัญหาและเด้งออกจากระบบอยู่บ่อยบ่อยไม่ทราบมันเป็นเพราะอะไร",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14456716867",
+      "date": "2026-08-22T00:11:06Z",
+      "rating": 5,
+      "title": "일상의 기록",
+      "body": "앞으로도 좋은 서비스 유지해주세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

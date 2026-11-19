@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 260,
+  "count": 10,
+  "next_offset": 270,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14243883238",
+      "date": "2026-06-30T06:16:18Z",
+      "rating": 1,
+      "title": "엥",
+      "body": "비밀번호 잃어버려서 다른 방법으로 로그인하려고했는데 뭔 비번 입력하기 밖에없어 이럴거면 왜 넣었냐",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14241098695",
+      "date": "2026-06-29T14:18:31Z",
+      "rating": 5,
+      "title": "Ok",
+      "body": "I love facebook",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14240847739",
+      "date": "2026-06-29T13:11:07Z",
+      "rating": 5,
+      "title": "페이스북🥳",
+      "body": "잘사용하고 있어요🥳",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14240468559",
+      "date": "2026-06-29T11:23:18Z",
+      "rating": 5,
+      "title": "이래야 뜬다",
+      "body": "아니 계정 삭제를 할려고 비밀번호를 알맞게 쳤는데 자꾸 아니래요; 자꾸 계정센터로만 가라하고 이거 때문에 비밀번호 10번 넘게 바꾼거 같은데 새로 바꾼 비밀번호를 칠때마다 아니라고 뜨는데 진심 뭐하자는건지..;;",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14238837643",
+      "date": "2026-06-29T00:25:46Z",
+      "rating": 3,
+      "title": "예기치않은 오류가 뭔데",
+      "body": "뭔 자꾸 예기치않은 오류라고 다시 로그인하래 짜증나게 진짜",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14237069092",
+      "date": "2026-06-28T14:26:57Z",
+      "rating": 1,
+      "title": "I hate it",
+      "body": "Dude where is my photo? I can’t even find it anywhere in the app😡 should I delete it or just leave it alone??",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14236763045",
+      "date": "2026-06-28T12:57:00Z",
+      "rating": 1,
+      "title": "탈퇴 좀 시켜주세요",
+      "body": "진짜 제발 탈퇴좀 ㅠㅠㅠㅠ 제발 시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요 탈퇴시켜주세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14236591258",
+      "date": "2026-06-28T12:02:11Z",
+      "rating": 5,
+      "title": "좋움",
+      "body": "그냥",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14232056279",
+      "date": "2026-06-27T09:14:03Z",
+      "rating": 5,
+      "title": "굿",
+      "body": "재미있어요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14227622214",
+      "date": "2026-06-26T07:29:24Z",
+      "rating": 5,
+      "title": "សួរ​ស្ដី​",
+      "body": "សួរ​ស្ដី​",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

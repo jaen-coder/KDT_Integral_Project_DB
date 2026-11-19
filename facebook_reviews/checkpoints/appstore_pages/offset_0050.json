@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 50,
+  "count": 10,
+  "next_offset": 60,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14675998936",
+      "date": "2026-10-17T04:04:34Z",
+      "rating": 1,
+      "title": "계정삭제좀쳐하자",
+      "body": "비번을 까먹어서 재설정 하고 비번다시 새로 만들어서 계정 삭제하려고 하는데 계속 잘못된 비번 ㅇㅈㄹ하면서 계정삭제 쳐 못하게 만듬 장애년들",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14675493215",
+      "date": "2026-10-17T00:49:50Z",
+      "rating": 5,
+      "title": "Fb",
+      "body": "Long cooperation, smart, have many friends, can read a news so easily, can buy a things, FB is good, I don’t understand a\nLife without FB",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14670923836",
+      "date": "2026-10-15T20:39:09Z",
+      "rating": 5,
+      "title": "Setifecation",
+      "body": "Very good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14669540351",
+      "date": "2026-10-15T13:32:03Z",
+      "rating": 1,
+      "title": "작업시 오류도 많고 수정도 어려움",
+      "body": "지도 주소 변경도 어렵고 핀위치도 주소와 다르게 표시되는데 수정이 안됩니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14668029793",
+      "date": "2026-10-15T03:41:25Z",
+      "rating": 1,
+      "title": "임의로 계정 비활성화",
+      "body": "내계정이 문제적 활동을 했다며 임의로 비활성화 시키고는 이의제기를 하라는데 어디서도 받아들여지지가 않는다. 인스타로 가랬다. 로그인을 하랬다. 로그인이 안된다고. 문제활동 내역도 보여주지도 않으면서 이게 무슨짓인지",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14667666113",
+      "date": "2026-10-15T01:14:23Z",
+      "rating": 5,
+      "title": "Facebook là nơi kết nối và lưu giữ những yêu thương",
+      "body": "Xin hãy phát triển nó bằng việc phê duyệt cho tôi kiếm tiền từ nội dung để nuôi dưỡng 2 đứa trẻ.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14667439917",
+      "date": "2026-10-14T23:45:04Z",
+      "rating": 3,
+      "title": "….",
+      "body": "ㅋㅋㅎㅎ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14665160147",
+      "date": "2026-10-14T11:11:29Z",
+      "rating": 4,
+      "title": "일상을 추억하며",
+      "body": "일상을 소중하게 기억하며",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14664723232",
+      "date": "2026-10-14T08:09:58Z",
+      "rating": 5,
+      "title": "킹샷 최고",
+      "body": "모바일 게임은 많이 했지만 4개월째 하도 있어요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14663434362",
+      "date": "2026-10-13T22:49:42Z",
+      "rating": 4,
+      "title": "monetize",
+      "body": "please increase views and earning from reels post and stories",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

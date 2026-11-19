@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 90,
+  "count": 10,
+  "next_offset": 100,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14594688013",
+      "date": "2026-09-26T07:51:41Z",
+      "rating": 1,
+      "title": "개개싫어요",
+      "body": "비밀번호 맞다고 뜨는데 계정 비활도 안되고 삭제도 안되고 진짜 짜증나고 싫어요 하 어케 지워요??",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14593638687",
+      "date": "2026-09-26T00:35:11Z",
+      "rating": 5,
+      "title": "Ngon",
+      "body": "Xuất sắc",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14593557091",
+      "date": "2026-09-26T00:03:25Z",
+      "rating": 5,
+      "title": "Mạng xã hội",
+      "body": "Ở đây tôi có thể gặp gỡ được nhiều người.học hỏi và có cơ hội kiếm thêm thu nhập nếu được bật kiếm tiền mọi dung .",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14590107507",
+      "date": "2026-09-25T02:58:34Z",
+      "rating": 1,
+      "title": "Ads",
+      "body": "Too many ads",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14589867190",
+      "date": "2026-09-25T01:25:20Z",
+      "rating": 5,
+      "title": "페북 살아있네^^",
+      "body": "페북에서 인별로 넘어가도 페북은 나의 첫 sns, 깊은 친구들은 아직도 페북을 통해 근황을 알리고있어 좋아요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14589666742",
+      "date": "2026-09-25T00:08:38Z",
+      "rating": 5,
+      "title": "Enjoy",
+      "body": "Very good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14589214215",
+      "date": "2026-09-24T21:04:24Z",
+      "rating": 5,
+      "title": "Very good to support me",
+      "body": "Good to support me",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14589111753",
+      "date": "2026-09-24T20:24:29Z",
+      "rating": 5,
+      "title": "Xuhuong dum con",
+      "body": "Xuhuog dum con",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14587262116",
+      "date": "2026-09-24T10:29:04Z",
+      "rating": 5,
+      "title": "굿",
+      "body": "굿",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14580289303",
+      "date": "2026-09-22T14:30:12Z",
+      "rating": 1,
+      "title": "하",
+      "body": "이 가지같은 페이스북 도데체 비번 변경이 왜안되는거임? 이 쓸모없는 페이스북을 계정 삭제를 하규싶어도 못하게하네",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

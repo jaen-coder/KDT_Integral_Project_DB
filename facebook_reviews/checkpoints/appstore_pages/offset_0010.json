@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 10,
+  "count": 10,
+  "next_offset": 20,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14756052639",
+      "date": "2026-11-06T03:08:55Z",
+      "rating": 5,
+      "title": "Xếp hạng",
+      "body": "Rất tuyệt vời",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14755938299",
+      "date": "2026-11-06T02:22:56Z",
+      "rating": 5,
+      "title": "제주김작가",
+      "body": "제주김작가 제주의 사진작가",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14755384205",
+      "date": "2026-11-05T22:48:43Z",
+      "rating": 1,
+      "title": "Now unusable",
+      "body": "My account gets restricted every other day for no reason. When I try to tag friends it suggests random groups and people I have never once come across, before my actual friends. This website has become ai slop and is quite frankly unusable",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14746080571",
+      "date": "2026-11-03T15:06:36Z",
+      "rating": 5,
+      "title": "Dating chat",
+      "body": "Facebook offers a lot of variety, but its dating chat feature lacks a language translator—I think it could use some more features.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14741482455",
+      "date": "2026-11-02T12:10:16Z",
+      "rating": 5,
+      "title": "기끔 친구들이 보고 싶을 때",
+      "body": "Facebook이 징검다리가 되어 주어서 고맙다^^",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14741305258",
+      "date": "2026-11-02T11:09:11Z",
+      "rating": 5,
+      "title": "나라 사랑",
+      "body": "힘차게 응원합니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14740597923",
+      "date": "2026-11-02T05:58:34Z",
+      "rating": 1,
+      "title": "해킹해킹",
+      "body": "이렇게 해킹 많이 되는 sns도 없을듯. 보안이 대단함",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14740388448",
+      "date": "2026-11-02T04:21:12Z",
+      "rating": 5,
+      "title": "👌",
+      "body": "🤩",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14735916335",
+      "date": "2026-11-01T01:57:52Z",
+      "rating": 5,
+      "title": "인스타까지 못해요ㅜㅜㅜㅜㅜㅜ",
+      "body": "실수로 페북 나이 어리게 바꿔서 페북,인스타 로그인,새계정도 못 파여ㅜㅜㅜㅜㅜ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14733259961",
+      "date": "2026-10-31T11:19:59Z",
+      "rating": 1,
+      "title": "ㅗ",
+      "body": "ㅜ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

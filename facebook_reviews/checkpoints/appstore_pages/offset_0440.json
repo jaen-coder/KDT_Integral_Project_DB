@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 440,
+  "count": 10,
+  "next_offset": 450,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13904854355",
+      "date": "2026-03-30T21:58:06Z",
+      "rating": 5,
+      "title": "I like the app",
+      "body": "It’s an awesome app",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13902998773",
+      "date": "2026-03-30T11:01:12Z",
+      "rating": 1,
+      "title": "로그인이 안 됩니다.",
+      "body": "웹으로 들어가면 잘만 됩니다. 그런데 이 앱으로 들어가면 로그인이 안 됩니다. 비밀번호 문자인증도 안됩니다. 예기치 않은 오류가 발생했다고 하며 그냥 안 됩니다. 하루만의 오류겠거니 생각하고 앱을 지우고 까는 걸 몇 번을 반복한 지 일주일이 다 되어 갑니다. 제발 좀 고쳐주세요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13901817483",
+      "date": "2026-03-30T01:09:09Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Enjoy",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13895997281",
+      "date": "2026-03-28T12:18:42Z",
+      "rating": 5,
+      "title": "Entertainment and social services are so much better",
+      "body": "Social interesting entertainment and knolege new innovations",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13894898582",
+      "date": "2026-03-28T03:57:59Z",
+      "rating": 1,
+      "title": "로그인이 안 돼여",
+      "body": "앱 좀 들어갈 수 있게해주세요•••\n자꾸 마지막 코드 받고 들어가려고 하면 예기치 못한 오류가 떠서 안 된다고 나오네여",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13892930048",
+      "date": "2026-03-27T15:26:19Z",
+      "rating": 5,
+      "title": "제발",
+      "body": "제발 계정 삭제좀 해달라고요;;\n삭제하려고 하면 로그인 하라고 그러고 비밀번호 찾기를 하면 메세지는 안오고 그냥 페이스북 자체를 지워도 계정은 살아있고 그냥 이렇게 답답한건 처음임 제발 그냥 관리자가 삭제좀 시켜줬으면 좋겠다 답 없음 걍",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13884358416",
+      "date": "2026-03-25T05:35:35Z",
+      "rating": 1,
+      "title": "로그인 불가",
+      "body": "오랜만에 다시 로그인을 하려니 계속 오류가 뜨며 불가능하다고 뜹니다.\n어플을 다운받아 사용하면 이메일로 코드를 받는것도 오류로 막히고 새비번을 만드는 것도 막히고 새계정을 만드는 것도 막히고 어플을 삭제했다가 다시 다운받아도 유지됩니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13883573683",
+      "date": "2026-03-24T23:29:41Z",
+      "rating": 1,
+      "title": "강제로그아웃 메일 왜 안주시나요",
+      "body": "강제로그아웃 시켜놓고 벌써 몇달이 지났는데 복구메일 왜 안줘요? 폰도 바꿨고 번호도 바꿨고;;; 로그인 아이디 비밀번호 쳐도 접속도 안되고 뭐 어쩌라는거에요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13883506427",
+      "date": "2026-03-24T23:01:37Z",
+      "rating": 5,
+      "title": "Món ngon mỗi ngày",
+      "body": "Rất hài lòng",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13881678521",
+      "date": "2026-03-24T11:56:37Z",
+      "rating": 5,
+      "title": "Hhggg",
+      "body": "Gig",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}
