@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 490,
+  "count": 10,
+  "next_offset": 500,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13764768805",
+      "date": "2026-02-19T03:28:19Z",
+      "rating": 5,
+      "title": "Photo",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13761203618",
+      "date": "2026-02-18T03:23:15Z",
+      "rating": 1,
+      "title": "쓰레기",
+      "body": "쓰레기앱. 망한이유가있다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13754597577",
+      "date": "2026-02-16T07:32:48Z",
+      "rating": 5,
+      "title": "Good for shearing to the world",
+      "body": "Goo job",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13754075552",
+      "date": "2026-02-16T03:19:19Z",
+      "rating": 1,
+      "title": "아니 계정 삭제 왜 안 됨? 좀 삭제 좀 하자",
+      "body": "아니 왜 계정 안 지워짐?? 영구 삭제 하려고 하는데 비밀번호 안 맞아서 다시 바꾸고 다시 하니까 계속 안 맞다고 뜨고 무한 굴레 중",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13753905911",
+      "date": "2026-02-16T02:06:08Z",
+      "rating": 1,
+      "title": "계정 비활성화",
+      "body": "제가 해킹을 당하고 그 해커 나라에서 제 계정으로 해커가 로그인하고 제가 대한민국에서 로그인을 하니 너무 빨리 움지겼다고 커뮤니티가이드 라인을 위반하여 계정이 비활성화 돼었습니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13753491489",
+      "date": "2026-02-15T23:03:40Z",
+      "rating": 5,
+      "title": "굿",
+      "body": "더 굿",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13751720920",
+      "date": "2026-02-15T12:47:43Z",
+      "rating": 5,
+      "title": "잘들 지내시나?",
+      "body": "???",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13751438115",
+      "date": "2026-02-15T10:56:14Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13750681404",
+      "date": "2026-02-15T05:00:27Z",
+      "rating": 5,
+      "title": "Tốt",
+      "body": "Tốt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13748575920",
+      "date": "2026-02-14T15:21:11Z",
+      "rating": 5,
+      "title": "페이스북은나가라",
+      "body": "1점 주기도 아까운데 참 대표사진 좀 어케 해주세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 360,
+  "count": 10,
+  "next_offset": 370,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14063577317",
+      "date": "2026-05-14T13:46:20Z",
+      "rating": 5,
+      "title": "South Korea",
+      "body": "They are very good for admission",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14062426091",
+      "date": "2026-05-14T06:04:00Z",
+      "rating": 5,
+      "title": "Very good",
+      "body": "Very good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14060420318",
+      "date": "2026-05-13T16:20:00Z",
+      "rating": 5,
+      "title": "너무좋아요",
+      "body": "너무너무너무조아죽겠어요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14058592099",
+      "date": "2026-05-13T04:12:48Z",
+      "rating": 5,
+      "title": "일상공유",
+      "body": "일상적 이야기를 편하게\n공유해서 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14054076626",
+      "date": "2026-05-11T21:50:59Z",
+      "rating": 5,
+      "title": "페이스북에 지난 사진들이 떠오를 때마다",
+      "body": "잊었던 지난 일들을 떠올릴 수 있어서 너무 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14052037942",
+      "date": "2026-05-11T09:57:17Z",
+      "rating": 5,
+      "title": "思い出の",
+      "body": "忙しい毎日，時々昔の私に会えせるペイス‼️❤️",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14051970057",
+      "date": "2026-05-11T09:25:40Z",
+      "rating": 1,
+      "title": "FB became wasteland long time ago",
+      "body": "It’s not even worth 1 star. Pure trash app",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14042730809",
+      "date": "2026-05-08T20:08:41Z",
+      "rating": 5,
+      "title": "초보라",
+      "body": "조언해드릴게 아직 없네요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14040061835",
+      "date": "2026-05-08T02:27:47Z",
+      "rating": 4,
+      "title": "Happy time",
+      "body": "Im happy with Facebook",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14038330093",
+      "date": "2026-05-07T15:05:39Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "I really like Facebook because it gives me creativity and joy.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

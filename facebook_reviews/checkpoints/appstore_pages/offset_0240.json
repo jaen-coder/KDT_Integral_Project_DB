@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 240,
+  "count": 10,
+  "next_offset": 250,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14288826318",
+      "date": "2026-07-11T05:06:18Z",
+      "rating": 5,
+      "title": "Hay",
+      "body": "Tuyệt vời",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14285964835",
+      "date": "2026-07-10T12:44:06Z",
+      "rating": 1,
+      "title": "계정삭제",
+      "body": "삭제를 했으면 바로 계정을 삭제해야지 왜 다시 열리게 만들어? 바로바로 개인정보 다 삭제하란말야",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14285155365",
+      "date": "2026-07-10T07:47:14Z",
+      "rating": 5,
+      "title": "옛날페북이그리움",
+      "body": "너무많이변함",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14278997769",
+      "date": "2026-07-08T18:19:46Z",
+      "rating": 5,
+      "title": "Excellent app",
+      "body": "Excellent app",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14276828632",
+      "date": "2026-07-08T05:52:46Z",
+      "rating": 5,
+      "title": "공유",
+      "body": "공유하기 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14276407242",
+      "date": "2026-07-08T02:55:16Z",
+      "rating": 5,
+      "title": "Tôi rất thích Facebook",
+      "body": "Mong rằng những thước phim của tôi sẽ được Facebook đề xuất đến mọi người hơn xin cảm ơn",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14274458530",
+      "date": "2026-07-07T15:33:36Z",
+      "rating": 5,
+      "title": "Luot moi luc moi noi hiểu thêm nhiều kiến thuc",
+      "body": "Triệu lai",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14272387322",
+      "date": "2026-07-07T02:52:18Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "😊😊😊",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14270866839",
+      "date": "2026-07-06T17:45:25Z",
+      "rating": 5,
+      "title": "good app",
+      "body": "All the society can bind",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14269335987",
+      "date": "2026-07-06T09:45:46Z",
+      "rating": 1,
+      "title": "불만",
+      "body": "결제 버그에 일처리가 늦고 보상은 낮다 ㅡㅡ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

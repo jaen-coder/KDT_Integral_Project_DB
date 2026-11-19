@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 190,
+  "count": 10,
+  "next_offset": 200,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14384118644",
+      "date": "2026-08-03T20:24:34Z",
+      "rating": 5,
+      "title": "Thank you",
+      "body": "The nice community one",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14381921052",
+      "date": "2026-08-03T08:56:31Z",
+      "rating": 1,
+      "title": ".",
+      "body": "خره عليكم هنالك الكثير من الأخطاء",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14381760041",
+      "date": "2026-08-03T07:51:57Z",
+      "rating": 5,
+      "title": "광고효과",
+      "body": "널리 알리는데 페이스북 만한게 있을까싶네요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14381513183",
+      "date": "2026-08-03T06:07:47Z",
+      "rating": 1,
+      "title": "릴스가 4-5초후 중단됨",
+      "body": "릴스 열면 몇장면 후 멈춥니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14380515167",
+      "date": "2026-08-02T23:30:11Z",
+      "rating": 5,
+      "title": "여름휴가",
+      "body": "페북이 있어 여러사람 교류에 좋아요^^",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14380052506",
+      "date": "2026-08-02T20:33:10Z",
+      "rating": 5,
+      "title": "위 아더 월드!!!",
+      "body": "88서울올림픽 주제가.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14376170934",
+      "date": "2026-08-01T21:17:20Z",
+      "rating": 5,
+      "title": "리뷰",
+      "body": "너무 간편해서 좋아요!!!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14375128870",
+      "date": "2026-08-01T15:35:59Z",
+      "rating": 5,
+      "title": "Cùng tần số và chủ đề",
+      "body": "Những điều tôi quan tâm và tìm kiếm fb hỗ trợ rất nhanh. Cảm ơn fb❤️",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14374546365",
+      "date": "2026-08-01T12:51:20Z",
+      "rating": 1,
+      "title": "비밀번호",
+      "body": "비밀번호찾기가아예안돼요\n무슨고객지원도도움1도안됨\n제발!!좀찾게해주세요좀..",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14372861706",
+      "date": "2026-08-01T02:03:12Z",
+      "rating": 5,
+      "title": "속초 술빵",
+      "body": "대기시간과 맛의 저울질",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

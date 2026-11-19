@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 140,
+  "count": 10,
+  "next_offset": 150,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14480926559",
+      "date": "2026-08-28T06:18:24Z",
+      "rating": 5,
+      "title": "Tuổi 70 bố mẹ làm nhà 4 lần",
+      "body": "Thợ làm rất tốt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14480387498",
+      "date": "2026-08-28T02:21:34Z",
+      "rating": 5,
+      "title": "Very good",
+      "body": "👍",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14478309635",
+      "date": "2026-08-27T14:06:20Z",
+      "rating": 5,
+      "title": "너무 편리하고 사용하기가 좋아요",
+      "body": "영사 사진 올릴데 너무 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14477521654",
+      "date": "2026-08-27T09:48:27Z",
+      "rating": 5,
+      "title": "I am happy",
+      "body": "Facebook our life.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14477317129",
+      "date": "2026-08-27T08:23:49Z",
+      "rating": 1,
+      "title": "야이씨발",
+      "body": "로그인 인증 하라길래 숫자 누르려하면 왜 자꾸 로그인 차단 버튼이 쳐 눌리냐고 시발",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14476892088",
+      "date": "2026-08-27T05:14:42Z",
+      "rating": 5,
+      "title": "Top of the world",
+      "body": "Facebook is love ❤️",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14476886374",
+      "date": "2026-08-27T05:12:06Z",
+      "rating": 5,
+      "title": "Bình chọn",
+      "body": "Tốt dễ sử dụng",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14474182456",
+      "date": "2026-08-26T13:01:33Z",
+      "rating": 5,
+      "title": "제발 살려주세요",
+      "body": "아니 제가 실수로 나이 잘못 선택해서 인스타랑 같이 연동되있던 계정이 같이 날아가버렸어요 한번만 살려주시면 안되요? 너무 억울하고 제가 필요한 계정이기때문에 ㅠㅠ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14472476857",
+      "date": "2026-08-26T01:43:25Z",
+      "rating": 3,
+      "title": "내용에 링크를 첨부하면 사이트 이미지가 보이지 않는 건 왜 그래요?",
+      "body": "또 덧글 배열을 관련성 있는 덧글에서 최신 덧글로 디폴트 설정을 변경해 주세요. 매번 변경하기 귀찮네요.\n\n어떤 건 숫제 덧글이 안보여요 맞죠?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14470262270",
+      "date": "2026-08-25T13:01:07Z",
+      "rating": 5,
+      "title": "갑자기 영구 비활성화",
+      "body": "생년월일 이상해서 생년월일 바꿨는데 갑자기 인증하라해서 인증했는데\n갑자기 영구 비활성화 먹었어요 그래서 인스타도 영정먹었어요 이거 빨리 풀어주세여ㅜ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 330,
+  "count": 10,
+  "next_offset": 340,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14123699983",
+      "date": "2026-05-30T15:03:23Z",
+      "rating": 1,
+      "title": "오류",
+      "body": "아이패드에서 친구목록보기 오류있음",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14123525383",
+      "date": "2026-05-30T14:14:08Z",
+      "rating": 1,
+      "title": "이상한 버그가 뜨네요",
+      "body": "갑자기 화면이 검어지는 이상한 버그가 뜨내요. 앱삭제하고 다시 깔기 반복중입니다. 버그 수정좀 요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14123167298",
+      "date": "2026-05-30T12:26:34Z",
+      "rating": 5,
+      "title": "喜欢😘",
+      "body": "特别好",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14122617995",
+      "date": "2026-05-30T08:58:05Z",
+      "rating": 5,
+      "title": "굿",
+      "body": "굿굿",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14119681418",
+      "date": "2026-05-29T14:32:22Z",
+      "rating": 1,
+      "title": "🖤",
+      "body": "🖤",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14118034453",
+      "date": "2026-05-29T03:41:39Z",
+      "rating": 1,
+      "title": "앱 실행하면 릴스가 나오는 것을 다시 피드로 바꿔주세요.",
+      "body": "앱을 실행하면 첫 화면에 릴스가 나오게 바꾼 건, 너무 불편합니다. 다시 이전처럼 피드를 첫 번째로 나오게 바꿔주세요. 왜 페북 앱을 실행하자마자, 문어 다리가 달린 촉수와 여자 배우가 나오는 릴스가 나오는 것이죠? 피드로 되어 있을 때는 소리라도 안났지. 릴스로 실행되니까, 등장하는 여자 배우가 내는 소리가 너무 크게 나오는데요?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14113112041",
+      "date": "2026-05-27T20:17:06Z",
+      "rating": 1,
+      "title": "화면이 자꾸 꺼져요",
+      "body": "사용시 화면이 꺼져요 아이폰 14pro",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14112591260",
+      "date": "2026-05-27T17:15:20Z",
+      "rating": 5,
+      "title": "Facebook still kept my photos safely for when I need them in future",
+      "body": "Great App",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14111153409",
+      "date": "2026-05-27T09:05:36Z",
+      "rating": 5,
+      "title": "Man of the match",
+      "body": "Great",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14108362350",
+      "date": "2026-05-26T14:39:22Z",
+      "rating": 5,
+      "title": "멋진 세상",
+      "body": "많은 것을 배우게 합니다 나아갑니다 고맙습니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

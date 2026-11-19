@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 350,
+  "count": 10,
+  "next_offset": 360,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14083054802",
+      "date": "2026-05-19T19:09:52Z",
+      "rating": 5,
+      "title": "Social media",
+      "body": "Amazing",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14080837783",
+      "date": "2026-05-19T04:47:12Z",
+      "rating": 5,
+      "title": "차별",
+      "body": "아이폰, 패드 최신 업데이트 해도 알림 소리가 살아짐.\n그리고 알림들이 딜레이 현상 엉망진창.\n그리고 안드로이드와 차별 하지 말아라.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14080074994",
+      "date": "2026-05-18T23:08:29Z",
+      "rating": 5,
+      "title": "선상의 도시",
+      "body": "멋진 도시 탄생이네요!! 아름답습니디.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14075105823",
+      "date": "2026-05-17T15:09:03Z",
+      "rating": 5,
+      "title": "Nice",
+      "body": "Nice",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14073068863",
+      "date": "2026-05-17T01:49:43Z",
+      "rating": 5,
+      "title": "A profitable money‑maker",
+      "body": "A profitable money‑maker",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14070661448",
+      "date": "2026-05-16T11:50:17Z",
+      "rating": 5,
+      "title": "Tăng lượt xem",
+      "body": "Cần tăng lượt xem",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14066092353",
+      "date": "2026-05-15T06:13:26Z",
+      "rating": 4,
+      "title": "รายงานปัญหา",
+      "body": "ทำไมเฟสบุ๊คฉันโดนจำกัดการโพสในกลุ่ม",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14065486666",
+      "date": "2026-05-15T01:26:27Z",
+      "rating": 5,
+      "title": "3년전 오늘",
+      "body": "다들 젊었네",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14064988342",
+      "date": "2026-05-14T21:57:34Z",
+      "rating": 5,
+      "title": "Thể dục",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14063931406",
+      "date": "2026-05-14T15:35:58Z",
+      "rating": 1,
+      "title": "ㅉㅉ",
+      "body": "광고를 ㅈㄴ띄우니까 니네가 망한거임 다 인스타하지 누가 페북하냐?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

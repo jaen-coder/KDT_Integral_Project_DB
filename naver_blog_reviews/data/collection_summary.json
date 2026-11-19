@@ -1,0 +1,57 @@
+{
+  "service": "네이버 블로그",
+  "collected_at": "2026-11-19T10:02:11Z",
+  "target_per_platform": 500,
+  "target_total": 1000,
+  "platforms": {
+    "Google Play Store": {
+      "saved_unique": 500,
+      "duplicates_skipped": 0,
+      "date_range_created_at": {
+        "min": "2025-10-15T03:23:58Z",
+        "max": "2026-11-17T10:29:14Z"
+      },
+      "sort": "newest (Play batchexecute UsvDTd sort=2; cross-checked Firecrawl Alexandria media/app_reviews sort=newest)",
+      "sort_date_field": "created_at",
+      "country_language": {
+        "country": "KR",
+        "language": "ko"
+      },
+      "source_url": "https://play.google.com/store/apps/details?id=com.nhn.android.blog&hl=ko",
+      "status": "complete",
+      "updated_at_available": false,
+      "notes": "Public RPC exposes a single review timestamp mapped to created_at; separate updated_at not available. Author names/avatars not stored. Developer replies in developer_reply when present."
+    },
+    "App Store": {
+      "saved_unique": 500,
+      "duplicates_skipped": 0,
+      "date_range_created_at": {
+        "min": "2025-10-25T14:41:37Z",
+        "max": "2026-11-15T23:45:14Z"
+      },
+      "sort": "most_recent (Firecrawl Alexandria apps-apple-com/apps/reviews; Apple catalog sort=recent)",
+      "sort_date_field": "created_at",
+      "country_language": {
+        "country": "kr",
+        "locale": "ko-KR"
+      },
+      "source_url": "https://apps.apple.com/kr/app/%EB%84%A4%EC%9D%B4%EB%B2%84-%EB%B8%94%EB%A1%9C%EA%B7%B8-naver-blog/id328813873",
+      "status": "complete",
+      "updated_at_available": false,
+      "limitations": [
+        "Collected via Firecrawl Alexandria apps/reviews (offset 0-490, 10/page) to avoid storefront rate limits and ensure most_recent sort",
+        "is_edited exists in source but no separate updated_at timestamp; updated_at left blank",
+        "Author user_name not stored"
+      ],
+      "notes": "Most Helpful / rating sorts were not used."
+    }
+  },
+  "total_saved_unique": 1000,
+  "filters": "No rating/sentiment/keyword filter; text-bearing reviews only",
+  "pii_policy": "Author display names/avatars not stored",
+  "outputs": {
+    "play": "data/naver_blog_google_play.csv",
+    "appstore": "data/naver_blog_app_store.csv",
+    "all": "data/naver_blog_reviews_all.csv"
+  }
+}

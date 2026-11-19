@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 300,
+  "count": 10,
+  "next_offset": 310,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14173986684",
+      "date": "2026-06-12T14:09:47Z",
+      "rating": 5,
+      "title": "오류",
+      "body": "제발 오류 좀 고치던가 맨날 백날천날 오류 이지랄하고 로그아웃 시키고 이러면 짜증이 안나겠냐? 아 일 드럽게 못하네",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14173967837",
+      "date": "2026-06-12T14:05:03Z",
+      "rating": 1,
+      "title": "로그인 오류요",
+      "body": "로그인이 안되여",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14173965547",
+      "date": "2026-06-12T14:04:27Z",
+      "rating": 1,
+      "title": "페북이 안돼요",
+      "body": "왜 갑자기 시스템 오류가 발생하고 스토리고ㅠ댓글창이고 다 사라진거죠? 프로필도 사라졋는데\n\n쿼리\n오류는 뭔데ㅜㅜ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14173961624",
+      "date": "2026-06-12T14:03:28Z",
+      "rating": 4,
+      "title": "Why  did you stop the Facebook?",
+      "body": "Explain to us",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14173951696",
+      "date": "2026-06-12T14:00:57Z",
+      "rating": 5,
+      "title": "왜 접속이 안되나요?",
+      "body": "갑자기 왜 에러가 났나요?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14173104449",
+      "date": "2026-06-12T09:07:11Z",
+      "rating": 5,
+      "title": "최고의 연주",
+      "body": "연주가 흘륭하네요!!~~",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14172417773",
+      "date": "2026-06-12T03:50:11Z",
+      "rating": 5,
+      "title": "disabled",
+      "body": "hello facebook. why do you disable accounts out of nowhere even though many of us didn't do nothing wrong like me. i'm not active on facebook, I don't post anything even story. i need to get my account back because i have school in 2 days and this is the only social media we use in school to communicate.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14172385557",
+      "date": "2026-06-12T03:35:54Z",
+      "rating": 5,
+      "title": "Rất thú vị",
+      "body": "Cho tôi cảm giác stress",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14171174839",
+      "date": "2026-06-11T19:44:44Z",
+      "rating": 1,
+      "title": "해킹당했다는데",
+      "body": "사진이랑 신분증이랑 다 제출햇는데\n대체\n언제\n풀릴까요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14169377915",
+      "date": "2026-06-11T10:29:56Z",
+      "rating": 5,
+      "title": "로그인 하는 방법 좀 고객센터나 그런데 없나요?",
+      "body": "별 짓을 해도 로그인이 안됨 이계정 차단된 것 같음 근데 메타 에이아이로 뭘 해도 안됨 이메일 보내도 죽어도 안봄 해킹 당한거같다고 누르면 다른 기기 사용하라함 내가 예전부터 로그인 했던 폰인데도 죽어도 안나옴 SMS그거 안됨 죽어도 안됨 미칠거같음",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

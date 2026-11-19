@@ -1,0 +1,103 @@
+{
+  "app_id": "389801252",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 380,
+  "observed_at_ms": 1795079730161,
+  "offset": 370,
+  "reviews": [
+    {
+      "body": "아이패드미니 사용 중입니다.\n아이폰 듀오 때문에 화면세팅과 비율이 변경된 건가요?\n게시물들 크기가 작아졌어요.",
+      "date": "2026-11-05T20:17:32Z",
+      "id": "14754983804",
+      "is_edited": false,
+      "rating": 4,
+      "title": "영상 크기",
+      "user_name": "물빛요정"
+    },
+    {
+      "body": "제발해결좀해주세요진짜제발이틀남았는데아무이상없는데하루에한번씩해도안되고미치겠어요",
+      "date": "2026-11-05T16:47:43Z",
+      "id": "14754353539",
+      "is_edited": false,
+      "rating": 5,
+      "title": "게시물 복구 네트워크 오류",
+      "user_name": "울산김공주"
+    },
+    {
+      "body": "다른 사람 댓글에 하트 누른 기록도 볼 수 있게 해주세요 제발\n이 기능 추가해 주시면 인스타 개발자분들 모든 일이 잘 풀리고 무병장수하실 거예요 제발",
+      "date": "2026-11-05T16:26:02Z",
+      "id": "14754283252",
+      "is_edited": false,
+      "rating": 5,
+      "title": "내가 다른 사람 댓글에 누른 하트 기록",
+      "user_name": "difitytifid"
+    },
+    {
+      "body": "GO BACK TO 2022 INSTAGRAM PLEASE IF YOU DO NOT CHANGE I WILL DIE",
+      "date": "2026-11-05T15:11:28Z",
+      "id": "14754034367",
+      "is_edited": false,
+      "rating": 5,
+      "title": "Meta you must see my review",
+      "user_name": "응응앵이"
+    },
+    {
+      "body": "뭘 나중에 다시 시도하세요가 뜨냐 인스타그램아 쳐 까불지 말고 오류 고치라 ㅉㅉ",
+      "date": "2026-11-05T14:14:46Z",
+      "id": "14753839736",
+      "is_edited": false,
+      "rating": 1,
+      "title": "아 새로고침 할 때마다 뭘",
+      "user_name": "한심하다정말"
+    },
+    {
+      "body": "아무것도 안했는데 계정이 갑자기 사라지고 새 계정 만들려고 해도 계정 생성에 실패했다고만 뜹니다. 지웠다가 다시 깔아서 생성해봐도 계속 안되고 애초에 왜 제 계정이 정지됬는지도 모르겠습니다.",
+      "date": "2026-11-05T12:17:52Z",
+      "id": "14753445895",
+      "is_edited": false,
+      "rating": 1,
+      "title": "제발",
+      "user_name": "하제발시발"
+    },
+    {
+      "body": "맨날 재미있는 셔츠 나옴 ㅠㅠㅠ ㅡㅡㅡㅡㅡㅡ",
+      "date": "2026-11-05T12:01:40Z",
+      "id": "14753395421",
+      "is_edited": false,
+      "rating": 5,
+      "title": "굿",
+      "user_name": "어리궁그궁"
+    },
+    {
+      "body": "몇년전엔 필터가 사라지고 이젠 아무짓도안했는데 영구정지당하고 신분증찍어서 인증해도 안된다하고 이젠 새계정도 안만들어짐",
+      "date": "2026-11-05T11:56:32Z",
+      "id": "14753379728",
+      "is_edited": false,
+      "rating": 1,
+      "title": "영구좀 풀어",
+      "user_name": "영구풀어줘"
+    },
+    {
+      "body": "3일 전부터 갑자기 인스타가 아무 이유없이 비활성화 됏다고 뜨고 나이인증도 하고 아이디,비번을 쳐도 인스타 사용자라고 뜨는데 정지는 아닌거 같고 해킹일까요 오류일까요…",
+      "date": "2026-11-05T10:17:18Z",
+      "id": "14753107478",
+      "is_edited": false,
+      "rating": 4,
+      "title": "오류..?",
+      "user_name": "hsarang0509"
+    },
+    {
+      "body": "사진수정할 수있게 업데이트좀 해주세요 왜 안되게 해놓은거죠",
+      "date": "2026-11-05T10:04:23Z",
+      "id": "14753075889",
+      "is_edited": false,
+      "rating": 3,
+      "title": "올린게시물 사진수정",
+      "user_name": "dkfnjejsknz"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/389801252/reviews?platform=web&l=ko-KR&offset=370&limit=10&sort=recent"
+}
