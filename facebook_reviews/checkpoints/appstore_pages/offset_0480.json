@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 480,
+  "count": 10,
+  "next_offset": 490,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13785480233",
+      "date": "2026-02-24T22:47:43Z",
+      "rating": 5,
+      "title": "Giới thiệu cho em nhiều khách hàng với nha",
+      "body": "Cảm ơn anh Facebook nhiều nhiều 😁",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13781030151",
+      "date": "2026-02-23T16:39:25Z",
+      "rating": 1,
+      "title": "별 로 다",
+      "body": "해킹 당했는데 도와주는것도 없네 ㅈㄴ 어이없게",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13780931595",
+      "date": "2026-02-23T16:06:24Z",
+      "rating": 1,
+      "title": "😡",
+      "body": "Too much ads....\nDisgusting 😡\nThinking to Deactivate the account",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13780913573",
+      "date": "2026-02-23T16:00:27Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "Rất hay và ý nghĩa",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13779893177",
+      "date": "2026-02-23T09:40:42Z",
+      "rating": 5,
+      "title": "Quảng bá sản phẩm",
+      "body": "Rất tốt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13776912883",
+      "date": "2026-02-22T13:45:08Z",
+      "rating": 5,
+      "title": "Right",
+      "body": "Good luck",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13775460512",
+      "date": "2026-02-22T03:10:46Z",
+      "rating": 5,
+      "title": "광고좀 그만해라",
+      "body": "…..",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13773341878",
+      "date": "2026-02-21T14:13:22Z",
+      "rating": 1,
+      "title": "로그인",
+      "body": "왜 휴대폰만 로그인이 안돼는 거에요.. 휴대폰 로그인이 가장 필요한데...",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13772573693",
+      "date": "2026-02-21T09:15:41Z",
+      "rating": 4,
+      "title": "광고너무 많아서",
+      "body": "페북 친구들이 다 떠나간다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13765466319",
+      "date": "2026-02-19T09:09:24Z",
+      "rating": 1,
+      "title": "광고 많이",
+      "body": "광고 노무 많이",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

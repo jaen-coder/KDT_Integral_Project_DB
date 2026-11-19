@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 20,
+  "count": 10,
+  "next_offset": 30,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14732466174",
+      "date": "2026-10-31T06:01:47Z",
+      "rating": 1,
+      "title": "로그인이 안됌",
+      "body": "페이스북 처음으로 하는 사람인데 로그인하고 있는데 세션이 만료 됐다고 하고 로그인이 안돼고 있음",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14730026173",
+      "date": "2026-10-30T15:18:08Z",
+      "rating": 5,
+      "title": "좋아요",
+      "body": "아주좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14727391238",
+      "date": "2026-10-29T22:42:28Z",
+      "rating": 5,
+      "title": "사용편이",
+      "body": "나의 좋은 친구 그리고 일기장!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14724751991",
+      "date": "2026-10-29T08:06:52Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Veri good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14724698949",
+      "date": "2026-10-29T07:42:53Z",
+      "rating": 1,
+      "title": "노답앱",
+      "body": "진짜 형편없음 비활성화 탈퇴 하도 싶어도 할수가 없네",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14724660648",
+      "date": "2026-10-29T07:25:04Z",
+      "rating": 5,
+      "title": "게시물",
+      "body": "여러가지 환경을 볼수있어서 아주 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14722108411",
+      "date": "2026-10-28T15:20:32Z",
+      "rating": 5,
+      "title": "Mình mong đăng video lượt xem cao",
+      "body": "Tuyệt vời nhưng faibook mình đăng ít người xem giúp mình kéo lượt xem nhiều giùm mình với",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14716988603",
+      "date": "2026-10-27T09:36:12Z",
+      "rating": 1,
+      "title": "비밀번호",
+      "body": "진심 무슨 어플 설정 방법을 이딴식으로 해놨는지 모르겠네...\n계정삭제 할라고 비밀번호 찾기 하니까 로그인 할때 쓰는 인증화면으로 넘어가고\n웹으로 할라하니까 또 일정 기간 이상 사용한 뒤 다시 시도하세요 하고\n인스타로 할라하니까 또 인스타에서는 먹통이고 어플 관리좀 제대로 하세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14716288528",
+      "date": "2026-10-27T04:14:50Z",
+      "rating": 5,
+      "title": "느낌",
+      "body": "좋습니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14716191215",
+      "date": "2026-10-27T03:31:26Z",
+      "rating": 1,
+      "title": "แทบ เวลา ไดนามิค แบตเตอรี่  หายหมดเลย",
+      "body": "อัปเดตแล้วมีปันหาเลย  แก้ด้วยนะ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

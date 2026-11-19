@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 250,
+  "count": 10,
+  "next_offset": 260,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14269206268",
+      "date": "2026-07-06T08:52:05Z",
+      "rating": 5,
+      "title": "Thank for make this app",
+      "body": "Good app for use and for share",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14267747782",
+      "date": "2026-07-05T22:50:27Z",
+      "rating": 5,
+      "title": "좋아요",
+      "body": "좋아용",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14266567796",
+      "date": "2026-07-05T16:13:39Z",
+      "rating": 5,
+      "title": ".좋은정보를받을수있는곳입니다",
+      "body": "정보를통해. 필요한물품을구매나눔할수있어 생활에많은. 도움을받고있어요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14265915604",
+      "date": "2026-07-05T13:04:50Z",
+      "rating": 5,
+      "title": "이래야 위로 올려짐",
+      "body": "아니 12+라매요 현재 초6인데 만나이도 12살이상이고 걍 나이도 12살인데 왜 정지먹냐고요 이거 어쩔건데 표기를 잘해놓던가ㅉㅉ 내 계정 돌려내",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14265485698",
+      "date": "2026-07-05T10:36:16Z",
+      "rating": 5,
+      "title": "리뷰",
+      "body": "잘쓰고 잇어요 재밋네요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14264379207",
+      "date": "2026-07-05T03:00:31Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Awesome very good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14264223878",
+      "date": "2026-07-05T01:58:15Z",
+      "rating": 5,
+      "title": "Cabaas",
+      "body": "Cabaas",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14260319447",
+      "date": "2026-07-04T02:26:16Z",
+      "rating": 1,
+      "title": "위치가 없어요 (써브웨이 진주혁신점)",
+      "body": "위치가 뜨지 않습니다 써브웨이진주혁신점: 진주시 충의로 20-4",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14255416573",
+      "date": "2026-07-02T21:51:02Z",
+      "rating": 5,
+      "title": "Hai",
+      "body": "Y nghĩa \n👍👍😭😭",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14254085380",
+      "date": "2026-07-02T15:00:28Z",
+      "rating": 5,
+      "title": "OK",
+      "body": "OK",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

@@ -1,0 +1,56 @@
+{
+  "service": "Instagram",
+  "collected_at": "2026-11-19T09:18:10Z",
+  "target_per_platform": 500,
+  "target_total": 1000,
+  "platforms": {
+    "Google Play Store": {
+      "saved_unique": 500,
+      "duplicates_skipped": 0,
+      "date_range_created_at": {
+        "min": "2026-10-27T06:17:01Z",
+        "max": "2026-11-17T16:16:52Z"
+      },
+      "sort": "newest (UsvDTd sort=2 / Alexandria sort=newest)",
+      "sort_date_field": "created_at",
+      "country_language": {
+        "country": "KR",
+        "language": "ko"
+      },
+      "source_url": "https://play.google.com/store/apps/details?id=com.instagram.android",
+      "status": "complete",
+      "updated_at_available": false,
+      "notes": "Single public timestamp mapped to created_at; author PII omitted."
+    },
+    "App Store": {
+      "saved_unique": 500,
+      "duplicates_skipped": 0,
+      "date_range_created_at": {
+        "min": "2026-11-01T04:07:20Z",
+        "max": "2026-11-18T00:09:08Z"
+      },
+      "sort": "most_recent (Alexandria apps/reviews)",
+      "sort_date_field": "created_at",
+      "country_language": {
+        "country": "kr",
+        "locale": "ko-KR"
+      },
+      "source_url": "https://apps.apple.com/kr/app/instagram/id389801252",
+      "status": "complete",
+      "updated_at_available": false,
+      "limitations": [
+        "iTunes RSS returned 0 entries",
+        "Direct apps.apple.com/api / Playwright fetch: HTTP 429",
+        "Collected via Firecrawl Alexandria apps-apple-com/apps/reviews"
+      ]
+    }
+  },
+  "total_saved_unique": 1000,
+  "filters": "No rating/sentiment/keyword filter; text-bearing reviews only",
+  "pii_policy": "Author display names/avatars not stored",
+  "outputs": {
+    "play": "data/instagram_google_play.csv",
+    "appstore": "data/instagram_app_store.csv",
+    "all": "data/instagram_reviews_all.csv"
+  }
+}

@@ -1,0 +1,57 @@
+{
+  "service": "Facebook",
+  "collected_at": "2026-11-19T10:39:01Z",
+  "target_per_platform": 500,
+  "target_total": 1000,
+  "platforms": {
+    "Google Play Store": {
+      "saved_unique": 500,
+      "duplicates_skipped": 0,
+      "date_range_created_at": {
+        "min": "2026-02-25T08:01:04Z",
+        "max": "2026-11-17T14:03:41Z"
+      },
+      "sort": "newest (Play batchexecute UsvDTd sort=2; cross-checked Firecrawl Alexandria media/app_reviews sort=newest)",
+      "sort_date_field": "created_at",
+      "country_language": {
+        "country": "KR",
+        "language": "ko"
+      },
+      "source_url": "https://play.google.com/store/apps/details?id=com.facebook.katana&hl=ko",
+      "status": "complete",
+      "updated_at_available": false,
+      "notes": "Public RPC exposes a single review timestamp mapped to created_at; separate updated_at not available. Author names/avatars not stored. Developer replies in developer_reply when present."
+    },
+    "App Store": {
+      "saved_unique": 500,
+      "duplicates_skipped": 0,
+      "date_range_created_at": {
+        "min": "2026-02-14T15:21:11Z",
+        "max": "2026-11-17T12:33:32Z"
+      },
+      "sort": "most_recent (apps.apple.com catalog API sort=recent; verified via Playwright browser fetch)",
+      "sort_date_field": "created_at",
+      "country_language": {
+        "country": "kr",
+        "locale": "ko-KR"
+      },
+      "source_url": "https://apps.apple.com/kr/app/facebook/id284882215",
+      "status": "complete",
+      "updated_at_available": false,
+      "limitations": [
+        "Firecrawl Alexandria apps/reviews timed out during this run; collected via Node fetch of apps.apple.com catalog API (same most_recent/sort=recent feed), with Playwright verification of sort=recent",
+        "is_edited exists in source but no separate updated_at timestamp; updated_at left blank",
+        "Author user_name not stored"
+      ],
+      "notes": "Most Helpful / rating sorts were not used."
+    }
+  },
+  "total_saved_unique": 1000,
+  "filters": "No rating/sentiment/keyword filter; text-bearing reviews only",
+  "pii_policy": "Author display names/avatars not stored",
+  "outputs": {
+    "play": "data/facebook_google_play.csv",
+    "appstore": "data/facebook_app_store.csv",
+    "all": "data/facebook_reviews_all.csv"
+  }
+}

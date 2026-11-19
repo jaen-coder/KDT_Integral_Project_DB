@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 460,
+  "count": 10,
+  "next_offset": 470,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13850855572",
+      "date": "2026-03-15T13:59:56Z",
+      "rating": 1,
+      "title": "로그인이안됨",
+      "body": "계정 잠겼대서 본인인증 다하고 마지막에 비번바꾸고 완료누르면 아무 동작을 안해서 로그인할수가없음;; 계정좀 어떻게 해줘봐요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13850182873",
+      "date": "2026-03-15T09:39:27Z",
+      "rating": 5,
+      "title": "오피스퀸키우기",
+      "body": "정말 너무 이뻐요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13849961462",
+      "date": "2026-03-15T07:55:07Z",
+      "rating": 4,
+      "title": "Already",
+      "body": "Thank’s god",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13849228259",
+      "date": "2026-03-15T02:05:46Z",
+      "rating": 1,
+      "title": "تطبيق سيئ",
+      "body": "تطبيق سيئ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13848953890",
+      "date": "2026-03-15T00:13:19Z",
+      "rating": 5,
+      "title": "최고예요",
+      "body": "최고예요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13843045121",
+      "date": "2026-03-13T09:31:04Z",
+      "rating": 5,
+      "title": "คำติชม",
+      "body": "ฉันชอบมากค่ะ ได้เห็นโลกกว้าง ได้เรียนรู้ สิ่งต่างๆได้มีเพื่อนมากมาย",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13835266128",
+      "date": "2026-03-11T00:58:18Z",
+      "rating": 1,
+      "title": "해킹",
+      "body": "아이디 해킹당해서 삭제하는데 무슨 30일 기다리라고  근데 그사이에 또 중국인이 해킹 해서 아이디 삭제도 안되고 이게뭔짓거리인지 모르겠네요  \n아이디 해킹당햐서 삭제한건데 무슨 30일동안 로그인 안해야 삭제된다는게 좃같은 말입니까  그사이에 중국인들이 또 아이디 해킹해서 다시호그인 하는데 좀 아이디좀 삭제해달라고",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13829058616",
+      "date": "2026-03-09T04:24:43Z",
+      "rating": 1,
+      "title": "로그인안됨",
+      "body": "뭐 로그인하려고 하면 계속 예기치 않은 오류…쓸수가 없다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13822992270",
+      "date": "2026-03-07T12:34:31Z",
+      "rating": 1,
+      "title": "비밀번호가 안바뀌어서 틱톡 로그인도못하고 계정삭제도안되요.",
+      "body": "제발. 비밀번호좀 바꾸자고. 일제대로좀 하세요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13821947918",
+      "date": "2026-03-07T04:36:58Z",
+      "rating": 5,
+      "title": "Ok",
+      "body": "Tuyệt vời",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

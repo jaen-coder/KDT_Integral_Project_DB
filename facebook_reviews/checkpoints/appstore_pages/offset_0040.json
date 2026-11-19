@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 40,
+  "count": 10,
+  "next_offset": 50,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14699740364",
+      "date": "2026-10-23T03:51:13Z",
+      "rating": 5,
+      "title": "Пользуйтесь",
+      "body": "Все классно!)))",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14699376364",
+      "date": "2026-10-23T01:23:14Z",
+      "rating": 1,
+      "title": "Audio Issue",
+      "body": "The audio is muted in certain parts/videos, and I cannot report the issue. Please fix this bug.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14692390516",
+      "date": "2026-10-21T08:25:40Z",
+      "rating": 5,
+      "title": "자연",
+      "body": "모든게 다 좋음 굿",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14689143184",
+      "date": "2026-10-20T12:28:19Z",
+      "rating": 1,
+      "title": "페북 앱 설치하게 하려고",
+      "body": "인스타 포스트로 낚시하길래 1점",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14684639737",
+      "date": "2026-10-19T08:19:26Z",
+      "rating": 5,
+      "title": "Love love love it",
+      "body": "Super love it",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14684345101",
+      "date": "2026-10-19T05:59:00Z",
+      "rating": 1,
+      "title": "계정 삭제 해주세요",
+      "body": "계정 삭제 하려니까 비밀번호 잘못됐다고 계속 뜨는데 시발 로그인 할때는 그 비밀번호로 로그인 했는데 18년들아 당장 고객센터 제대로 해놓든지 씨발 계정 탈퇴를 해주던지 해라 병신같은 페이스북",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14681737832",
+      "date": "2026-10-18T14:10:33Z",
+      "rating": 5,
+      "title": "सुन्दर अति सुन्दर",
+      "body": "सुन्दर अति सुन्दर",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14680517880",
+      "date": "2026-10-18T06:58:36Z",
+      "rating": 5,
+      "title": "좋은게시판임.",
+      "body": "좋아요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14680487700",
+      "date": "2026-10-18T06:45:53Z",
+      "rating": 5,
+      "title": "Mang nhiều giá trị tích cực",
+      "body": "Thư giãn và kết nối học hỏi kinh nghiệm",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14677855376",
+      "date": "2026-10-17T15:03:43Z",
+      "rating": 5,
+      "title": "Tôi rất thích 👍",
+      "body": "Rất tốt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

@@ -1,0 +1,103 @@
+{
+  "app_id": "328813873",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 10,
+  "observed_at_ms": 1795080126253,
+  "offset": 0,
+  "reviews": [
+    {
+      "body": "하얀색 화면만 뜸",
+      "date": "2026-11-15T23:45:14Z",
+      "id": "14795597565",
+      "is_edited": false,
+      "rating": 1,
+      "title": "앱이 안 뜸",
+      "user_name": "니냐니냐나나나뇨"
+    },
+    {
+      "body": "로고 이전걸로 제발 돌려주면 안되나요 선택이라도 하게 해줘요\n글고 렉도 넘 많이걸림",
+      "date": "2026-11-15T12:47:11Z",
+      "id": "14793481262",
+      "is_edited": false,
+      "rating": 2,
+      "title": "로고",
+      "user_name": "Ani11111"
+    },
+    {
+      "body": "이어쓰기 눌렀더니 글이 날라갔어요",
+      "date": "2026-11-15T11:23:36Z",
+      "id": "14793230273",
+      "is_edited": false,
+      "rating": 3,
+      "title": "내 글 돌려내",
+      "user_name": "Rooms Room"
+    },
+    {
+      "body": "ㅉ",
+      "date": "2026-11-14T05:31:01Z",
+      "id": "14788182386",
+      "is_edited": false,
+      "rating": 1,
+      "title": "뭐 이딴앱이있음",
+      "user_name": "기기핑"
+    },
+    {
+      "body": "배경이미지 좀 제발 바꿀 수 있게해주세요ㅠㅠ 걔속 오류가 나는 건지 적용버튼이 안 눌려요.",
+      "date": "2026-11-13T18:34:04Z",
+      "id": "14786399575",
+      "is_edited": false,
+      "rating": 1,
+      "title": "홈편집에서 배경이미지 변경이 안돼요",
+      "user_name": "yujome"
+    },
+    {
+      "body": "업데이트 했는데 썸네일 빈화면 뜨는데 도대체 뭘한거임;;;;",
+      "date": "2026-11-13T00:44:33Z",
+      "id": "14783437456",
+      "is_edited": false,
+      "rating": 1,
+      "title": "썸네일 안뜸",
+      "user_name": "dearhyeoni"
+    },
+    {
+      "body": "블로그 앱 들어갈 때마다 좌측 상단 blog 버튼을 눌러 이웃새글만 나오게 해야 함. 이 설정을 고정도 못해놓게 만들어 놓은 시대에 뒤처진 앱",
+      "date": "2026-11-12T13:35:15Z",
+      "id": "14781448106",
+      "is_edited": false,
+      "rating": 1,
+      "title": "강제 추천글 노출로 망가진 앱",
+      "user_name": "al123qwer"
+    },
+    {
+      "body": "블로그 추천글 작작쳐넣으세요 이게 뭔 인스탄줄아나 이웃도 아닌 사람 글을 몇개를 띄우는거임?",
+      "date": "2026-11-12T11:38:48Z",
+      "id": "14781074514",
+      "is_edited": true,
+      "rating": 1,
+      "title": "추천글 작작",
+      "user_name": "ㅇㅇㅇ12314"
+    },
+    {
+      "body": "보통 리뷰 잘 안쓰는데 참다참다 씁니다...! 블로그는 사진이 모든부분을 차지하는데 사진이 오류가 나서 안보이는 현상이 자주 일어나네요 ㅠㅠㅠ... 꽤 오래됐는데 고쳐주시면 감사하겠습니다!",
+      "date": "2026-11-09T03:45:30Z",
+      "id": "14768240873",
+      "is_edited": false,
+      "rating": 1,
+      "title": "사진 오류가 많이 나요 ㅠㅠ",
+      "user_name": "담맹"
+    },
+    {
+      "body": "업데이트 하고 블로그 썸네일 아무것도 안뜸;;; 업데이트 뭘 한건지...? ㄹㅇ 사진이 한장도 미리보기가 안떠서 답답해요",
+      "date": "2026-11-08T23:30:27Z",
+      "id": "14767593751",
+      "is_edited": false,
+      "rating": 1,
+      "title": "업데이트 하고 블로그 썸네일 아무것도 안뜸;;;",
+      "user_name": "새해에는모두건강하세요"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/328813873/reviews?platform=web&l=ko-KR&offset=0&limit=10&sort=recent"
+}

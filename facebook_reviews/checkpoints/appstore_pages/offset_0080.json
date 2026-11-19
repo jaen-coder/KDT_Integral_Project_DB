@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 80,
+  "count": 10,
+  "next_offset": 90,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14626603693",
+      "date": "2026-10-04T12:47:24Z",
+      "rating": 5,
+      "title": "학교사정으로 사용",
+      "body": "오류가 너무 많아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14626075035",
+      "date": "2026-10-04T09:35:58Z",
+      "rating": 1,
+      "title": "Tốc độ phát lại",
+      "body": "Bỏ 1.8 tốc độ phát lại đã tạm chấp nhận rồi. Giờ bỏ cả 1.5 tốc độ nữa.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14625847620",
+      "date": "2026-10-04T08:02:23Z",
+      "rating": 1,
+      "title": "고치세요제발",
+      "body": "비밀번호바꾸는거너무번거롭고싸가지없어요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14621053535",
+      "date": "2026-10-03T02:08:45Z",
+      "rating": 4,
+      "title": "여행과 사진",
+      "body": "일반적인 일에서 특별한 경험을 여행을 통해서 얻은 사진들은 여러사람들에게 알려주어 좋아요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14617225478",
+      "date": "2026-10-02T02:36:09Z",
+      "rating": 5,
+      "title": "good",
+      "body": "good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14617004664",
+      "date": "2026-10-02T01:10:27Z",
+      "rating": 1,
+      "title": "When I’m watching Facebook look so stress",
+      "body": "When I’m watching Facebook look so stress",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14609374449",
+      "date": "2026-09-30T02:30:32Z",
+      "rating": 4,
+      "title": "Tốt",
+      "body": "Ok",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14603766525",
+      "date": "2026-09-28T15:22:35Z",
+      "rating": 5,
+      "title": "Ok",
+      "body": "Ok",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14601975806",
+      "date": "2026-09-28T03:35:50Z",
+      "rating": 3,
+      "title": "Chưa hài lòng",
+      "body": "Liên tục đình chỉ 180 ngày mặc dù là tài khoản chính chủ. Liên tục bắt xác minh danh tính messenger",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14595072972",
+      "date": "2026-09-26T10:28:27Z",
+      "rating": 5,
+      "title": "나이제한 !뀨발!",
+      "body": "나이제한 왜건거임 원래 쓸수있었는데 갑자기 막혔노",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

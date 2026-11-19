@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 200,
+  "count": 10,
+  "next_offset": 210,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14368399066",
+      "date": "2026-07-30T23:42:49Z",
+      "rating": 5,
+      "title": "Quá tuyệt vời",
+      "body": "Quá tuyệt vời không lời nào diễn tả hết duoc",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14366550653",
+      "date": "2026-07-30T13:39:49Z",
+      "rating": 4,
+      "title": "Hi",
+      "body": "Hi",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14366277120",
+      "date": "2026-07-30T12:17:56Z",
+      "rating": 1,
+      "title": "กรุณาแก้ไขเรื่องภาษาเวลาเพื่อนโพสต์ภาษาต่างๆ",
+      "body": "กรุณาปรับปรุงเรื่องภาษาเวลาเพื่อนฉันโพสต์ภาษาอังกฤษหรือภาษาต่างๆฉันเลือกเป็นภาษาไทยพื้นฐานให้แปลเป็น เข้าไปตั้งค่าในตั้งค่าก็บอกว่าเป็นภาษาไทยแต่ Facebook แปลให้เป็นภาษาจีน",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14364244885",
+      "date": "2026-07-29T23:07:01Z",
+      "rating": 5,
+      "title": "Vui vẻ",
+      "body": "Hài lòng",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14362234783",
+      "date": "2026-07-29T12:19:39Z",
+      "rating": 5,
+      "title": "Tuyệt",
+      "body": "Tuyệt vời",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14357581184",
+      "date": "2026-07-28T08:43:50Z",
+      "rating": 5,
+      "title": "Rất thích",
+      "body": "Cho tôi được cái vui thú vị học hỏi nhiều đều không biết và được gặp người thân bạn bè qua Facebook tôi rất thích và được lưu những bức ảnh kỷ niệm từ năm sang năm khác xinh cám ơn Facebook ☺️❤️❤️❤️❤️",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14357259194",
+      "date": "2026-07-28T06:30:15Z",
+      "rating": 4,
+      "title": "Hi",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14357017578",
+      "date": "2026-07-28T04:47:16Z",
+      "rating": 1,
+      "title": "스와이프로 뒤로가기 왜 바꾼거임?",
+      "body": "아니 머무는 시간 길게 만들려는거임? 왜 스와이프로 뒤로가는 모션을 ㅈㄴ불편하게 바꿔놓은거임?\n화면 끝까지 닿아서 넘겨야 빠져나오네 진짜 악질 그 자체다....",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14356605283",
+      "date": "2026-07-28T02:05:11Z",
+      "rating": 5,
+      "title": "Tốt",
+      "body": "Rất hữu ích",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14351071578",
+      "date": "2026-07-26T17:01:19Z",
+      "rating": 5,
+      "title": "사진첩기능",
+      "body": "저는 15년간 페북을 사진첩과 일기장으로 쓰고 있는데요...\n사진첩을 정하고 게시하고 나면\n다른 사진첩으로 옮기기 기능이 있으면 좋겠어요ㅠㅠ\n잘못 올리면 삭제하고 다시 올려야해요....\n제발 기능 업뎃 한번만....!!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

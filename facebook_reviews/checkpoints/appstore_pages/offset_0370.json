@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 370,
+  "count": 10,
+  "next_offset": 380,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14037830246",
+      "date": "2026-05-07T12:23:54Z",
+      "rating": 5,
+      "title": "국대 떡볶기",
+      "body": "맛이 최고",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14033007571",
+      "date": "2026-05-06T02:37:13Z",
+      "rating": 2,
+      "title": "मनोरन्जन",
+      "body": "सन्कल्प",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14029157844",
+      "date": "2026-05-05T00:24:55Z",
+      "rating": 4,
+      "title": "소소한 공유",
+      "body": "작은 공유",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14025924220",
+      "date": "2026-05-04T02:36:23Z",
+      "rating": 2,
+      "title": "Facebook",
+      "body": "Tôi chọn facebook để chia sẽ và lưu giữ những khoảnh khắc đời thường của gia đình. Một ứng dụng tuyệt vời.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14025610402",
+      "date": "2026-05-04T00:23:00Z",
+      "rating": 4,
+      "title": "좋아요 페북",
+      "body": "아주 좋아요 페북",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14025517462",
+      "date": "2026-05-03T23:43:04Z",
+      "rating": 1,
+      "title": "감사합니다",
+      "body": "작은 공간에세 많은 누릴수 있고 할수 있어서 좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14023927232",
+      "date": "2026-05-03T14:21:29Z",
+      "rating": 3,
+      "title": "Love",
+      "body": "Nice",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14023858106",
+      "date": "2026-05-03T14:00:40Z",
+      "rating": 2,
+      "title": "Nhận xét về Facebook",
+      "body": "Rất hay hiểu lầm về các câu nói, các ngôn từ ngữ hiểu lầm mà hạn chế, khóa cả việc livetream trên Facebook , khiến người dùng khó chịu",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14023496607",
+      "date": "2026-05-03T12:01:29Z",
+      "rating": 5,
+      "title": "너무행복합니다💞",
+      "body": "감사하겠습니다🙏",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14023032149",
+      "date": "2026-05-03T08:46:55Z",
+      "rating": 5,
+      "title": "광주 양산동 나주본갈비🥰",
+      "body": "고기맛집 추천👍👍",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}
