@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 60,
+  "count": 10,
+  "next_offset": 70,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14658298239",
+      "date": "2026-10-12T15:52:09Z",
+      "rating": 2,
+      "title": "Aj hum ney dil ka kissa tamam kr dya",
+      "body": "Don",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14655543781",
+      "date": "2026-10-11T22:26:34Z",
+      "rating": 4,
+      "title": "늘 내 곁에 함께 있다",
+      "body": "필요할 때마다\n들춰 보게 된다\n고맙지^^",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14654470725",
+      "date": "2026-10-11T16:30:08Z",
+      "rating": 1,
+      "title": "업데 유저편의성 조내 뭐같네",
+      "body": ".",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14651695658",
+      "date": "2026-10-10T23:52:08Z",
+      "rating": 5,
+      "title": "나의 다짐 굳히기",
+      "body": "작은 세상에 알리는 것이지만 실천궁행하는 삶을 공표하는 자리로 활용함을써 나의 다짐 자리로 잘 활용하고 있다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14647968673",
+      "date": "2026-10-10T01:35:34Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14647757721",
+      "date": "2026-10-10T00:12:05Z",
+      "rating": 5,
+      "title": "ok",
+      "body": "ok",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14644949009",
+      "date": "2026-10-09T07:56:32Z",
+      "rating": 5,
+      "title": "안양마라탕맛집",
+      "body": "진한사골 짱맛나요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14644508561",
+      "date": "2026-10-09T04:29:15Z",
+      "rating": 5,
+      "title": "작은 물방울의 여행",
+      "body": "페이스북에 「작은 물방울의 여행」이라는 AI 애니메이션 전용 페이지를 만들었습니다.\n\n영상 게시 과정이 편리하고 만족스럽습니다.\n\n앞으로 한국의 아름다운 자연과 감동적인 이야기를 전 세계 사람들에게 소개하고 싶습니다.\n\nAI 창작 영상이 국내뿐 아니라 해외 시청자들에게도 널리 소개될 수 있도록 다양한 언어 지원과 콘텐츠 확산 기능이 더욱 강화되기를 기대합니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14644420776",
+      "date": "2026-10-09T03:48:34Z",
+      "rating": 5,
+      "title": "추억소환의 기쁨",
+      "body": "잊혀져가던 추억들이 다시금 오늘 처럼 느껴지는 오늘 같은 날",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14640210832",
+      "date": "2026-10-08T01:12:25Z",
+      "rating": 5,
+      "title": "인터페이스가 좋아요",
+      "body": "요즘 페이스북에 자주 들어오네요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

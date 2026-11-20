@@ -1,0 +1,62 @@
+# Naver blog public-post collection config
+# Keyword count and totals are derived from this file — do not hardcode them in code.
+
+run:
+  run_id_prefix: "place_memory_naver_blog"
+  timezone: "Asia/Seoul"
+  # Collection window is fixed regardless of execution date.
+  start_date: "2025-01-01"
+  end_date: "2026-10-31"
+
+keywords:
+  - "일상 기록"
+  - "사진 일기"
+  - "주간일기"
+  - "월간일기"
+  - "일상모음"
+  - "포토덤프"
+  - "여행 기록"
+  - "산책 기록"
+  - "동네 산책"
+  - "전시 후기"
+
+collection:
+  posts_per_keyword_month: 5
+  candidate_url_limit_per_keyword_month: 30
+  comments_per_post_max: 30
+  sort_order: "recentdate"  # 최신순
+  date_filter_method: "section_blog_period"  # PERIOD startDate/endDate on section.blog.naver.com
+  search_method: "playwright_section_blog"
+  extraction_method: "http_postview"
+  comment_method: "naver_cbox_api"
+  # Do not backfill short months from other months.
+
+request:
+  concurrency: 1
+  search_delay_sec: 0.8
+  extract_delay_sec: 0.35
+  comment_delay_sec: 0.25
+  max_retries: 2
+  retry_backoff_sec: [1.5, 4]
+  request_timeout_sec: 30
+  user_agent: "Mozilla/5.0 (Windows NT 10.0; Win64; x64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/120.0.0.0 Safari/537.36"
+
+paths:
+  data_dir: "data"
+  checkpoint_dir: "checkpoints"
+  log_dir: "logs"
+
+qa:
+  samples_per_keyword: 5
+  random_seed: 20251119
+
+research_period:
+  comment_inclusive_start: "2025-01-01"
+  comment_inclusive_end: "2026-10-31"
+
+tools:
+  # Official Naver Search API: credentials not configured in this environment.
+  use_naver_search_api: false
+  # Firecrawl reserved for optional QA/fallback; main extraction uses HTTP/Playwright.
+  use_firecrawl_for_extraction: false
+  firecrawl_credit_budget: 50

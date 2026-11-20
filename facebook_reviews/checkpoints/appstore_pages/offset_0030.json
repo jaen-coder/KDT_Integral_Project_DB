@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 30,
+  "count": 10,
+  "next_offset": 40,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14716094893",
+      "date": "2026-10-27T02:51:36Z",
+      "rating": 1,
+      "title": "광고 동영상 좀;",
+      "body": "영상 보는데 자꾸 광고 뜨니까 보기가 힘드네요; 광고5초 뜨는거 없애주세요 존나 불편하네 ㅅㅂ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14715551547",
+      "date": "2026-10-26T23:29:47Z",
+      "rating": 2,
+      "title": "Some",
+      "body": "What?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14712635136",
+      "date": "2026-10-26T07:19:45Z",
+      "rating": 5,
+      "title": "Enjoy!",
+      "body": "Thanks…",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14711935702",
+      "date": "2026-10-26T01:56:16Z",
+      "rating": 5,
+      "title": "Thank you",
+      "body": "Nice",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14710251926",
+      "date": "2026-10-25T16:28:50Z",
+      "rating": 5,
+      "title": "Great Experience",
+      "body": "Facebook is an amazing platform that brings people closer together. It makes it easy to connect with friends and family, share special moments, discover new things, and stay updated with the world. The experience is enjoyable, convenient, and full of opportunities to connect and explore. Highly recommended!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14705640507",
+      "date": "2026-10-24T14:23:16Z",
+      "rating": 5,
+      "title": "황금 용버들 괜찮네~ ~",
+      "body": "^^",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14705406145",
+      "date": "2026-10-24T13:20:56Z",
+      "rating": 5,
+      "title": "좋아요",
+      "body": "좋아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14700796380",
+      "date": "2026-10-23T11:17:39Z",
+      "rating": 5,
+      "title": "Video giải trí",
+      "body": "Bạn bèn",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14700467439",
+      "date": "2026-10-23T09:17:15Z",
+      "rating": 1,
+      "title": "진짜 마음에 안 드네… 쓰레기 같은",
+      "body": "아니 무슨 계정 탈퇴 하려는데 인증 번호도 안 와.. 개 짜증나네 어플 이딴식으로 만들지 마세요 인스타랑 괜히 연동했네 \n필요도 없는거 괜히 깔았다가 스트레스임..\n개쓰레기 같은..",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14700332854",
+      "date": "2026-10-23T08:20:59Z",
+      "rating": 5,
+      "title": "ok",
+      "body": "ok",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

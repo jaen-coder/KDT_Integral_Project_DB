@@ -1,0 +1,103 @@
+{
+  "app_id": "328813873",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 430,
+  "observed_at_ms": 1795080187251,
+  "offset": 420,
+  "reviews": [
+    {
+      "body": "아이콘을 검은색 배경 말고 화이트 모드용으로 흰색 배경으로도 만들어주세요 ㅠㅠ\n네이버 카페도 그렇고 추천글 시스템은 좀 없애주세요…",
+      "date": "2025-12-08T02:38:32Z",
+      "id": "13488324099",
+      "is_edited": false,
+      "rating": 1,
+      "title": "아이콘 다크모드만 있는건가요?",
+      "user_name": "Alberto.mjh"
+    },
+    {
+      "body": "1위 카카오톡\n2위 네이버블로그 축하합니다",
+      "date": "2025-12-07T13:30:52Z",
+      "id": "13485924294",
+      "is_edited": false,
+      "rating": 1,
+      "title": "1분도 머물기 싫은 최악의 업데이트",
+      "user_name": "moo moo moo!"
+    },
+    {
+      "body": "아이폰17프로에 26베타인데..",
+      "date": "2025-12-04T18:15:50Z",
+      "id": "13474902323",
+      "is_edited": false,
+      "rating": 1,
+      "title": "Ios26 베타3 앱자체가 튕겨버립니다",
+      "user_name": "갤럭시s24울트라오우너"
+    },
+    {
+      "body": "음악이나 팟캐스트 스트리밍으로 들으면서 다른 앱 쓸 땐 괜찮은데 네이버 블로그앱만 쓰면 음악이 일시정지돼서 너무너무 불편해요",
+      "date": "2025-12-04T00:00:11Z",
+      "id": "13472046348",
+      "is_edited": false,
+      "rating": 1,
+      "title": "음악 꺼짐",
+      "user_name": "_____Jjj"
+    },
+    {
+      "body": "밑에 글을 쓸 때 스크롤이 안 내려가고 올라가서 쓸 수가 없어요. 업데이트 때 이 점 수정해주세요.",
+      "date": "2025-12-03T04:35:43Z",
+      "id": "13468942858",
+      "is_edited": false,
+      "rating": 1,
+      "title": "스크롤 안 내려가는 오류",
+      "user_name": "rightrightnownow"
+    },
+    {
+      "body": "창닫기가 없어져 앱을 닫고 새로 열어야함,,,악마같은🧛🏻‍♀️🧛🏼🧛🏻‍♂️\n앱을 재설치하면 자동로그인👺",
+      "date": "2025-12-03T03:30:20Z",
+      "id": "13468795814",
+      "is_edited": false,
+      "rating": 1,
+      "title": "링크 누르면",
+      "user_name": "neoper00"
+    },
+    {
+      "body": "매번 다른 형식으로 바꿔서 올리는 거 너무 귀찮아서 임시저장만 해놓고 못올리는 글만 수두룩함,,",
+      "date": "2025-12-02T18:30:21Z",
+      "id": "13467400863",
+      "is_edited": false,
+      "rating": 3,
+      "title": "사진 첨부시 RAW파일 첨부도 되었으면 좋겠어요",
+      "user_name": "fispckwondicjdbeilanfoe"
+    },
+    {
+      "body": "ㅠㅠ",
+      "date": "2025-12-02T01:04:08Z",
+      "id": "13464619068",
+      "is_edited": false,
+      "rating": 3,
+      "title": "글자크기 12 만들어주세요제발 11은 너무 작고 13은 너무 커요 못쌩김",
+      "user_name": "dddddxxn"
+    },
+    {
+      "body": "업데이트 후 댓글 보려고 하면 렉걸림\n업데이트 왜 하신건지\n+아직도 그럼",
+      "date": "2025-11-30T12:15:34Z",
+      "id": "13458401054",
+      "is_edited": false,
+      "rating": 1,
+      "title": "업데이트 후 렉",
+      "user_name": "디비디비뷔"
+    },
+    {
+      "body": "앱 들어가면 듣고 있던 노래가 멈춥니다 빨리 고쳐주세요",
+      "date": "2025-11-30T09:05:51Z",
+      "id": "13457910175",
+      "is_edited": false,
+      "rating": 1,
+      "title": "노래 멈춤",
+      "user_name": "yuuool"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/328813873/reviews?platform=web&l=ko-KR&offset=420&limit=10&sort=recent"
+}

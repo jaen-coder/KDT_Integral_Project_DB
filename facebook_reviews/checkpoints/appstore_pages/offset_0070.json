@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 70,
+  "count": 10,
+  "next_offset": 80,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14638124798",
+      "date": "2026-10-07T13:07:14Z",
+      "rating": 1,
+      "title": "로그인이 안돼요",
+      "body": "로그인이 안되서 지웠다가 다시깔려고했는데 안지워지고 그걸 들어가서 로그인을 해볼려고하니 오류가 너무많습니다ㅠㅠ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14634337448",
+      "date": "2026-10-06T13:15:09Z",
+      "rating": 5,
+      "title": "Good platform",
+      "body": "Good platform",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14633758210",
+      "date": "2026-10-06T09:47:55Z",
+      "rating": 1,
+      "title": "No 1.5x speed in reels",
+      "body": "I used to watch videos and reels in 1.5x speed which is balanced for me, but now there are no options for this. If I watch in normal, it feels slow and 2x speed is too fast.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14633321470",
+      "date": "2026-10-06T06:23:12Z",
+      "rating": 1,
+      "title": "계정 찾기",
+      "body": "계정 찾는 거 절대 못 찾음 전화번호 지금까지 한 번도 바꾼 적도 이메일로 로그인한 적도 없는데 전에 쓰던 계정 못 찾음",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14630955980",
+      "date": "2026-10-05T15:12:27Z",
+      "rating": 1,
+      "title": "새장소 추가 어디로 갔어요",
+      "body": "아이폰 새장소 추가 없어져 불편함 아이디 같은거로 안드로이드폰은 됩니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14630081868",
+      "date": "2026-10-05T10:26:35Z",
+      "rating": 5,
+      "title": "Super",
+      "body": "Connecting with people best way to",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14628873926",
+      "date": "2026-10-05T01:25:01Z",
+      "rating": 5,
+      "title": "Cool",
+      "body": "Good 👍",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14628143673",
+      "date": "2026-10-04T20:32:29Z",
+      "rating": 1,
+      "title": "왕초보라 어렵네요.",
+      "body": "처음 접하게 되니 매우 어렵군요.\n디테일하게 지도편달 부탁합니다.\n저도 잘 해 보고 싶습니다.\nPlease !",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14627371963",
+      "date": "2026-10-04T16:28:46Z",
+      "rating": 5,
+      "title": "십년넘게",
+      "body": "쓰는중",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14627174806",
+      "date": "2026-10-04T15:32:11Z",
+      "rating": 1,
+      "title": "불편",
+      "body": "시각장애인들이 보이스오보 사용하는데 페북 불펺한 점 너무 많음",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

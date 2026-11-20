@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 180,
+  "count": 10,
+  "next_offset": 190,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14397269167",
+      "date": "2026-08-07T02:30:57Z",
+      "rating": 5,
+      "title": "추억의 한컷",
+      "body": "추억의 끄트머리를 잡고 싶다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14394584190",
+      "date": "2026-08-06T11:27:13Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Facebook",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14394503916",
+      "date": "2026-08-06T10:59:40Z",
+      "rating": 5,
+      "title": "최고",
+      "body": "짱입니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14394119698",
+      "date": "2026-08-06T08:29:11Z",
+      "rating": 5,
+      "title": "Mạng xã hội",
+      "body": "Rất hữu ích",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14392522381",
+      "date": "2026-08-05T21:42:31Z",
+      "rating": 5,
+      "title": "Wow",
+      "body": "Excellent",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14392482052",
+      "date": "2026-08-05T21:27:15Z",
+      "rating": 1,
+      "title": "별로입니다.",
+      "body": "모든게 별로 입니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14391620634",
+      "date": "2026-08-05T16:39:16Z",
+      "rating": 5,
+      "title": "나의 삶의 궤적",
+      "body": "페이스북은 나의 일기장이다.\n주로 산행기를 다루지만, 여행이나 일상을 얘기하기도 한다.\n페이스북을 통해 여러 나라 친구들과 교류하며 다양한 주제를 얘기할 수 있어 참 좋다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14386743832",
+      "date": "2026-08-04T12:56:39Z",
+      "rating": 1,
+      "title": "My all videos under revies",
+      "body": "under review my all videos and pictures🥹",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14385365194",
+      "date": "2026-08-04T04:09:50Z",
+      "rating": 1,
+      "title": "앱 시작 시 릴스 강제고정 좀 없애라",
+      "body": "설정에서 바꿀 수라도 있게 해 놓던가",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14385100255",
+      "date": "2026-08-04T02:27:30Z",
+      "rating": 1,
+      "title": "Great app for staying connected",
+      "body": "I really enjoy using Facebook. It helps me stay connected with my friends and family, share my moments, and watch interesting videos. Easy to use and very helpful for daily",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 120,
+  "count": 10,
+  "next_offset": 130,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14529159834",
+      "date": "2026-09-09T13:21:49Z",
+      "rating": 1,
+      "title": "비밀번호",
+      "body": "아니 비밀번호를 새로운걸로 바꿔서 다시 입력해도 계속 비밀번호가 틀렸다고 함 진짜 이 짓을 몇번 했는데 아 짜증나",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14528980036",
+      "date": "2026-09-09T12:28:35Z",
+      "rating": 5,
+      "title": "Hndma",
+      "body": "hndma",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14525320473",
+      "date": "2026-09-08T13:40:12Z",
+      "rating": 5,
+      "title": "그냥 좋아",
+      "body": "🙏",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14524591840",
+      "date": "2026-09-08T09:26:59Z",
+      "rating": 5,
+      "title": "Facebook",
+      "body": "모든 게임앱들에 연돌할수 잇어 조와요 근대 아직 잘모르겟어요 수익이없엉서",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14519234394",
+      "date": "2026-09-06T22:23:13Z",
+      "rating": 1,
+      "title": "การแจ้งเตือน",
+      "body": "แจ้งเตือนแต่อะไรไม่รุ้ เรื่องไม่มีประโยชน์",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14510408288",
+      "date": "2026-09-04T17:27:57Z",
+      "rating": 1,
+      "title": "비밀번호 변경",
+      "body": "자꾸 비번 변경하려고 하는데 엉뚱한 창만 뜨고 에러만 뜹니다. 에이아이에게도 문의하며 링크를 받았지만 계속 에러문구만 뜹니다. 막상 비번 찾으려고 들어간 파란링크는 계속 원래 비번 입력 후 로그인하라고 하네요.\n너무 화가 나고 답답하여 1점 주기도 아깝네요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14506925561",
+      "date": "2026-09-03T19:57:18Z",
+      "rating": 5,
+      "title": "페이스북 장점",
+      "body": "유자임터인터페이스를 진지하게 유저 입장에서 관리!!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14505182681",
+      "date": "2026-09-03T10:48:54Z",
+      "rating": 4,
+      "title": "정말 그지같은 앱",
+      "body": "쓸데없는 기능만 오조오억개로 ㅈ 나 많고 정작 쓸만한건 세상 불편하게 만들어놨음 보기도 싫은 릴스 영상 박아 놓을 시간에 커뮤 안전성이나 점검해라 게시물이 세개 이상 렉 걸려서 뜨지를 않아",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14504762757",
+      "date": "2026-09-03T07:51:08Z",
+      "rating": 4,
+      "title": "km",
+      "body": "ko",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14503608831",
+      "date": "2026-09-02T23:30:50Z",
+      "rating": 5,
+      "title": "소통의 광장",
+      "body": "지구상의 많은사람들과의 소통이란,흥미진진하고 숨통이 트이는 느낌!",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

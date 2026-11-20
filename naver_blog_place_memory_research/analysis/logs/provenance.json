@@ -1,0 +1,48 @@
+{
+  "run_id": "place_memory_concept_analysis_20261120",
+  "started_at": "2026-11-20T19:05:24.182256+09:00",
+  "python": "3.14.6 (tags/v3.14.6:c63aec6, Jun 10 2026, 10:26:10) [MSC v.1944 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "seed": 20261120,
+  "coding_method": "rule_based_phrase_patterns_v1",
+  "files": {
+    "posts.csv": {
+      "path": "C:\\Users\\user\\Desktop\\융합프로젝트\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\posts.csv",
+      "sha256": "25e9422c9154fcb80f649764b2cf097e355d78aefae2e74d9589c69c13e41802",
+      "size_bytes": 8095744
+    },
+    "comments.csv": {
+      "path": "C:\\Users\\user\\Desktop\\융합프로젝트\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\comments.csv",
+      "sha256": "f74ca86bcd8e7c6fb47ec55e4a86d8e287a5e5578529d216cda9d7e1618b4665",
+      "size_bytes": 1199525
+    },
+    "search_hits.csv": {
+      "path": "C:\\Users\\user\\Desktop\\융합프로젝트\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\search_hits.csv",
+      "sha256": "11043d961bb367315e4429b486d7eb2f4ba6e8b7ac1152fe6e39b2787b8b3286",
+      "size_bytes": 942663
+    },
+    "monthly_summary.csv": {
+      "path": "C:\\Users\\user\\Desktop\\융합프로젝트\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\monthly_summary.csv",
+      "sha256": "ce0c9a7f025a8ded2cf53e49857278504edc9e1d666279c9c31304a6f548e4c1",
+      "size_bytes": 18923
+    },
+    "research_dataset.xlsx": {
+      "path": "C:\\Users\\user\\Desktop\\융합프로젝트\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\research_dataset.xlsx",
+      "sha256": "a8d550a9da0583ba8cdd3b1037053e2c19c9c7fb48113c47e714bdafcae5c064",
+      "size_bytes": 5218529
+    },
+    "config.yaml": {
+      "path": "C:\\Users\\user\\Desktop\\융합프로젝트\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\config.yaml",
+      "sha256": "93241bbebf49d3eba79404e2317e2f6ff702cd8e472a83040eb8899247d856bb",
+      "size_bytes": 1747
+    }
+  },
+  "finished_at": "2026-11-20T19:05:38.736668+09:00",
+  "corpus": {
+    "core_posts": 843,
+    "core_authors": 764,
+    "mixed_posts": 84,
+    "comments_on_core": 3908,
+    "evidence_rows": 4594
+  }
+}

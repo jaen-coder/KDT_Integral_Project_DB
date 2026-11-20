@@ -1,0 +1,103 @@
+{
+  "app_id": "389801252",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 30,
+  "observed_at_ms": 1795078858739,
+  "offset": 20,
+  "reviews": [
+    {
+      "body": "저는 만 15세인데 왜 만 14세 미만이라고 비활성화 될까요",
+      "date": "2026-11-17T07:30:41Z",
+      "id": "14800571480",
+      "is_edited": false,
+      "rating": 5,
+      "title": "만 14세",
+      "user_name": "침대가 짱"
+    },
+    {
+      "body": "아니 갑자기 일시차단당해서 해결방법 다\n찾아봐도 안됀다하는데 뭐죠?",
+      "date": "2026-11-17T07:26:07Z",
+      "id": "14800561926",
+      "is_edited": false,
+      "rating": 1,
+      "title": "이유없이 신고당함",
+      "user_name": "BND내꺼"
+    },
+    {
+      "body": "인스타 들어갔는데 갑자기 계정 차단 당하고 인스타설정 들어가는것도 막네요 문제 해결해주세요",
+      "date": "2026-11-17T07:22:14Z",
+      "id": "14800553723",
+      "is_edited": false,
+      "rating": 2,
+      "title": "차단당함",
+      "user_name": "Yez1n_u"
+    },
+    {
+      "body": "리포스트 안떠요",
+      "date": "2026-11-17T06:53:14Z",
+      "id": "14800493296",
+      "is_edited": false,
+      "rating": 3,
+      "title": "리퍼스트가없오요",
+      "user_name": "띤띤딴딴"
+    },
+    {
+      "body": "음악 재생후 앱 열면 음악이 끊김",
+      "date": "2026-11-17T05:38:22Z",
+      "id": "14800339711",
+      "is_edited": false,
+      "rating": 3,
+      "title": "음악 재생시 끊김",
+      "user_name": "찬무"
+    },
+    {
+      "body": "페북계정이랑 연동 안 돼있는데 가끔 페북기본프사(그 남자 실루엣 프사)로 바뀌는 게 너무 거슬려요",
+      "date": "2026-11-17T04:41:50Z",
+      "id": "14800220000",
+      "is_edited": false,
+      "rating": 4,
+      "title": "기본프사 이미지 옛날 페북 기본프사로 안 되게 해주세요",
+      "user_name": "고쳐주시오오"
+    },
+    {
+      "body": "색감 보정 할 수 있게 해주세요 ㅠㅠㅠㅠㅠㅠ",
+      "date": "2026-11-17T04:16:46Z",
+      "id": "14800165268",
+      "is_edited": false,
+      "rating": 5,
+      "title": "이미 올린 게시물 사진",
+      "user_name": "으어아이오"
+    },
+    {
+      "body": "릴스 동영상 등등 게시물에서 소리를 꺼도꺼도 계속 켜지고 너무 짜증나요",
+      "date": "2026-11-17T03:02:45Z",
+      "id": "14799991089",
+      "is_edited": false,
+      "rating": 1,
+      "title": "소리를 꺼도꺼도 다시켜짐",
+      "user_name": "haiakajajznx"
+    },
+    {
+      "body": "아니 프로필에만 올리는데 지인들한테 알람을 보내면 그냥 피드에 올리지 뭐하러 구독해서 프로필에만 올리냐 생각좀 해라",
+      "date": "2026-11-17T02:22:56Z",
+      "id": "14799889918",
+      "is_edited": false,
+      "rating": 1,
+      "title": "프로필에만 게시물 올리기 기능",
+      "user_name": "john.w2"
+    },
+    {
+      "body": "진짜ㅠㅠ 제발 하트랑 리포스트 삭제 100개씩 지우게 하지 말고 제한 없이 하게 해주세요 ㅠㅠ 아님 걍 전체 삭제를 만들어 주시던가",
+      "date": "2026-11-17T01:05:18Z",
+      "id": "14799685070",
+      "is_edited": false,
+      "rating": 4,
+      "title": ".",
+      "user_name": "(=•+•=)"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/389801252/reviews?platform=web&l=ko-KR&offset=20&limit=10&sort=recent"
+}

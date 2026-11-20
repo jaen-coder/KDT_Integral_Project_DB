@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 290,
+  "count": 10,
+  "next_offset": 300,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14184314485",
+      "date": "2026-06-15T04:29:07Z",
+      "rating": 5,
+      "title": "画面温馨",
+      "body": "很有带入感的小游戏",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14180665882",
+      "date": "2026-06-14T06:21:05Z",
+      "rating": 5,
+      "title": "Good service",
+      "body": "សេវ៉ាល្អ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14179585399",
+      "date": "2026-06-13T22:56:17Z",
+      "rating": 5,
+      "title": "ДАШТ-2026",
+      "body": "ДАШТ-2026",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14175485707",
+      "date": "2026-06-12T21:56:37Z",
+      "rating": 5,
+      "title": "Xin giúp tôi",
+      "body": "Rất tuyệt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14174157357",
+      "date": "2026-06-12T14:53:40Z",
+      "rating": 5,
+      "title": "Error message",
+      "body": "My facebook and instagram was just started to gain so much reach almost getting viral but due to error im scared it will impact my reach 😭😭😭",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14174149924",
+      "date": "2026-06-12T14:51:43Z",
+      "rating": 1,
+      "title": "안 좋은거",
+      "body": "안 좋아",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14174140688",
+      "date": "2026-06-12T14:49:18Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Great",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14174099358",
+      "date": "2026-06-12T14:38:37Z",
+      "rating": 5,
+      "title": "Fb mãi đỉnh",
+      "body": "Fb số 1 không thể thay thế",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14174044915",
+      "date": "2026-06-12T14:24:38Z",
+      "rating": 1,
+      "title": "업데이트 하고 로그인 안됨",
+      "body": "업데이트를 뭐하러 합니까?\n로그인이 안되는데...개 씨발이네",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14174033727",
+      "date": "2026-06-12T14:21:44Z",
+      "rating": 1,
+      "title": "로그인",
+      "body": "로그인안됨;;;;;",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 430,
+  "count": 10,
+  "next_offset": 440,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "13924755801",
+      "date": "2026-04-05T10:52:14Z",
+      "rating": 5,
+      "title": "고먀워",
+      "body": "ㅋㅋㅋ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13923258477",
+      "date": "2026-04-04T23:28:40Z",
+      "rating": 5,
+      "title": "Very good app",
+      "body": "Good for me",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13921750482",
+      "date": "2026-04-04T14:22:43Z",
+      "rating": 2,
+      "title": "Bảo mật",
+      "body": "Liên tục có người lạ đăng nhập",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13921435710",
+      "date": "2026-04-04T12:43:34Z",
+      "rating": 5,
+      "title": "Nice",
+      "body": "Nice",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13921297484",
+      "date": "2026-04-04T11:55:16Z",
+      "rating": 5,
+      "title": "Social media",
+      "body": "Best and useful",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13919565497",
+      "date": "2026-04-03T23:21:41Z",
+      "rating": 5,
+      "title": "Đánh giá",
+      "body": "Rất thích mong fb không sập",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13917129820",
+      "date": "2026-04-03T08:52:24Z",
+      "rating": 5,
+      "title": "Thanks",
+      "body": "Thanks",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13914167467",
+      "date": "2026-04-02T12:58:05Z",
+      "rating": 5,
+      "title": "대화",
+      "body": "정이 있는 사람이 사는세상",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13910303565",
+      "date": "2026-04-01T11:38:58Z",
+      "rating": 5,
+      "title": "좋아해",
+      "body": "좋아해",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13908541831",
+      "date": "2026-03-31T22:52:20Z",
+      "rating": 4,
+      "title": "ความสุขในทุกวันฉันได้เห็นการพัฒนาของแอปฉันมีมีความยินดีฉันว่าดีแล้วขอบคุณครับ",
+      "body": "ความคิดของฉันฉันว่าแบบนี้ก็ดีแล้วฟีเจอร์ดีแต่อีกอย่างหนึ่งแอปไลฟ์สดจะอยากให้เสถียรมากกว่านี้สิ่งรมรวมดีที่สุดแล้วขอบคุณที่ให้เราเข้ามาเล่น และมีเพื่อนใหม่ทุกวันขอบคุณครับ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}
