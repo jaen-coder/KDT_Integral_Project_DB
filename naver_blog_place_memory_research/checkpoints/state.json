@@ -1,0 +1,4187 @@
+{
+  "run_id": "place_memory_naver_blog_20261119_214706",
+  "author_salt": "80429833a6ef",
+  "jobs": {
+    "일상 기록||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bbyebbye6_223743781536",
+        "california22_223743781645",
+        "kamalaa_223743780136",
+        "navybottle_223743780276",
+        "yon9ureunn_223743781517"
+      ]
+    },
+    "일상 기록||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "kumjoojo_223778810632",
+        "mymellowdayz_223778809895",
+        "parkboo28_223778810573",
+        "seltsamderwelpe_223778809874",
+        "syoon314_223778810314"
+      ]
+    },
+    "일상 기록||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cjy1444_223816786491",
+        "euime_223816785229",
+        "iwa1517_223816785337",
+        "napick_223816786496",
+        "yeewon1217_223816784727"
+      ]
+    },
+    "일상 기록||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "etoileattirante_223851703962",
+        "eunbi9566_223851703497",
+        "ksy392725_223851703901",
+        "pretty1277ajs_223851703683",
+        "xho0lv_223851703454"
+      ]
+    },
+    "일상 기록||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "binnnnnn92_223884486009",
+        "daldalxoxo_223884484970",
+        "jlpianist_223884484991",
+        "kbok7777_223884484820",
+        "n4064_223884485245"
+      ]
+    },
+    "일상 기록||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "danbymiu_223917263317",
+        "jihyeon2222_223917263176",
+        "jiiliili704_223917263843",
+        "lykite_223917262545",
+        "wonhee1208_223917262689"
+      ]
+    },
+    "일상 기록||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "deepbluesung_223954391901",
+        "doridiary_223954391963",
+        "duckduck716_223954392299",
+        "ha2in1yam_223954391726",
+        "sim-je4121_223954391572"
+      ]
+    },
+    "일상 기록||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cjssus2679_223990344231",
+        "dangdda_223990344095",
+        "haenggamm_223990344665",
+        "hijustblog_223990343914",
+        "sesese9119_223990344299"
+      ]
+    },
+    "일상 기록||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2youu-_224027714703",
+        "downey1220_224027715483",
+        "leewha2670_224027715080",
+        "prizeej_224027715184",
+        "whdgnl098_224027714696"
+      ]
+    },
+    "일상 기록||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dotolss96_224060631034",
+        "fromysummer_224060631657",
+        "jig0303_224060631886",
+        "nalma_224060630912",
+        "yoonspringanna22_224060631090"
+      ]
+    },
+    "일상 기록||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 6,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bhb9204_224093591869",
+        "buddyholly1_224093593346",
+        "e1lly_224093591961",
+        "ejdcl915_224093592123",
+        "lhj020105_224093591910"
+      ]
+    },
+    "일상 기록||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bsj731200_224129860283",
+        "jc8992_224129860961",
+        "minji-smile_224129860535",
+        "ohy4573_224129863325",
+        "scvkm44_224129862789"
+      ]
+    },
+    "일상 기록||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "alwayshappy-b_224166971351",
+        "sparklinger_224166971015",
+        "wlthdbs79_224166971131",
+        "yuxshn_224166971172",
+        "zlrxown_224166971093"
+      ]
+    },
+    "일상 기록||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "0esxz_224199700131",
+        "gy2128_224199698992",
+        "pangliving_224199700257",
+        "sara2778_224199700152",
+        "seoiyum_224199700270"
+      ]
+    },
+    "일상 기록||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2yelee_224236326154",
+        "dbqls01477_224236325644",
+        "fantonglam_224236326141",
+        "juliapark325_224236325234",
+        "ssseo34_224236326249"
+      ]
+    },
+    "일상 기록||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "aloe825_224271038041",
+        "khj1031kr_224271038389",
+        "life-hk_224271038721",
+        "mitni_224271038830",
+        "yyg1231123_224271038134"
+      ]
+    },
+    "일상 기록||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "matchahamzzt_224302107643",
+        "nuuuwa_224302106885",
+        "soyomz_224302106946",
+        "wlsdkwjs1307_224302106935",
+        "xia0408_224302106478"
+      ]
+    },
+    "일상 기록||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "greenyj58_224332365631",
+        "kabareyuki_224332365826",
+        "kuseeya_224332365107",
+        "notesbysong_224332365075",
+        "sara2778_224332366444"
+      ]
+    },
+    "일상 기록||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "fefrxhddq_224364371149",
+        "mjx0201_224364370490",
+        "mugmu6_224364370933",
+        "nknkmy_224364371045",
+        "sarahlog_224364370135"
+      ]
+    },
+    "일상 기록||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "94795_224396673871",
+        "doll120_224396673556",
+        "gyumm2_224396674682",
+        "lira10_224396673322",
+        "pinkdora00_224396673955"
+      ]
+    },
+    "일상 기록||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cojuwd_224427643881",
+        "guyspice_224427644801",
+        "kimyuueun_224427645095",
+        "sunmmjj_224427644275",
+        "wodlr7390_224427644690"
+      ]
+    },
+    "일상 기록||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dacota3_224460588047",
+        "heyseoyoung-_224460588453",
+        "jung2ya_224460588590",
+        "sorajueng_224460588104",
+        "woddk35_224460588117"
+      ]
+    },
+    "사진 일기||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2eemh_223743779924",
+        "bbushoong_223743780834",
+        "bluewavwe_223743780274",
+        "hanssue1010_223743781288",
+        "seohklm_223743780209"
+      ]
+    },
+    "사진 일기||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "alswn6112_223778809729",
+        "ehee50271_223778809134",
+        "mangnano_223778809621",
+        "tkddud4677_223778810380",
+        "ysh3208_223778810745"
+      ]
+    },
+    "사진 일기||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dbf0eb_223816785477",
+        "jminf_223816786583",
+        "kiribyul_223816785491",
+        "slslsl95_223816786215",
+        "yeewon1217_223816784727"
+      ]
+    },
+    "사진 일기||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dbsdud5421_223851703489",
+        "komookomoo_223851704400",
+        "lsglsg0127_223851703786",
+        "thdud2972_223851703926",
+        "wjdenqn0710_223851657423"
+      ]
+    },
+    "사진 일기||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 12,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "alwjd581_223884485257",
+        "marrakechintense_223884485424",
+        "mongshongs_223884485240",
+        "nya915_223884484746",
+        "sharpziplibsae_223884484781"
+      ]
+    },
+    "사진 일기||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "14yeons_223917262460",
+        "chaechae508_223917263628",
+        "fjts3dht_223917263068",
+        "mlie54_223917263650",
+        "yeahrong2_223917262342"
+      ]
+    },
+    "사진 일기||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2807kks_223954392323",
+        "a1waysb1ues_223954391939",
+        "alswl4137_223954391340",
+        "anong435093_223954392021",
+        "hihr6317_223954392473"
+      ]
+    },
+    "사진 일기||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 14,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ittke_223990344549",
+        "jellibear2283_223990343544",
+        "longcowhee_223990343506",
+        "moto0199_223990343583",
+        "tnals963_223990344227"
+      ]
+    },
+    "사진 일기||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "juahuni_224027714401",
+        "ssoyeong0515_224027714482",
+        "takangel_224027714912",
+        "yejinjeon050311_224027715106",
+        "youarethebestpart_224027714704"
+      ]
+    },
+    "사진 일기||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "gt131_224060632041",
+        "kkomorebi84_224060630868",
+        "mongshongs_224060631147",
+        "shwzzang01_224060631107",
+        "songwithnoname_224060631237"
+      ]
+    },
+    "사진 일기||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "7opoki_224093593650",
+        "chanheedol_224093592935",
+        "ddosikmom_224093593370",
+        "dmsql2361_224093591664",
+        "wldbs7569_224093593043"
+      ]
+    },
+    "사진 일기||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "embeddedness_224129863128",
+        "jijikiki-_224129863032",
+        "luvmeyoung_224129864090",
+        "mongshongs_224129863245",
+        "pooos41300_224129863240"
+      ]
+    },
+    "사진 일기||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 20,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "biguremi_224166971569",
+        "cherim2002_224166971984",
+        "drawdrewdrawn_224166970661",
+        "falling94_224166971709",
+        "hwhw672600_224166971208"
+      ]
+    },
+    "사진 일기||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 21,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "limone0420_224199699250",
+        "navybottle_224199699516",
+        "paulnam1_224199698664",
+        "piowx_224199699144",
+        "withcoco0_224199700218"
+      ]
+    },
+    "사진 일기||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 5,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "8487922_224236325409",
+        "jiwone1011_224236326708",
+        "sharen05_224236326407",
+        "sorinelog_224236326340",
+        "urwxdw_224236326012"
+      ]
+    },
+    "사진 일기||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "colors15_224271038105",
+        "hoormione_224271038145",
+        "jieunlog_224271038756",
+        "sonok444_224271037676",
+        "tasol67_224271038439"
+      ]
+    },
+    "사진 일기||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ae00ng_224302107035",
+        "doll120_224302106534",
+        "gmlrud7396_224302107241",
+        "meneoow_224302107674",
+        "uncroos_224302106538"
+      ]
+    },
+    "사진 일기||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "jhe0675_224332365973",
+        "lilinalu_224332365957",
+        "phj0959_224332365280",
+        "qodbsaltjd1_224332364971",
+        "skrrr107_224332365719"
+      ]
+    },
+    "사진 일기||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ayini2929_224364370344",
+        "bokorukk_224364370721",
+        "earlygrub_224364370680",
+        "mysirosiro_224364370086",
+        "yeulnee_224364370983"
+      ]
+    },
+    "사진 일기||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "mongshongs_224396673761",
+        "wyj147_224396674610",
+        "yjson225_224396673472",
+        "yonsi0_224396673985",
+        "yuyurmyh_224396673717"
+      ]
+    },
+    "사진 일기||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "heyl73_224427644467",
+        "htnetyam_224427644164",
+        "hyeridiary_224427644077",
+        "ljh970128_224427644585",
+        "rladmswl0628_224427644267"
+      ]
+    },
+    "사진 일기||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bapply_224460589339",
+        "imgoneji_224460588189",
+        "leefeelfeell_224460588256",
+        "loveucream_224460588608",
+        "ndlog_224460588530"
+      ]
+    },
+    "주간일기||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "amesand_223743777340",
+        "s00minimini_223743776911",
+        "sso756_223743780359",
+        "uouknow_223743771278",
+        "zyxoxzxz_223743771772"
+      ]
+    },
+    "주간일기||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dkrekdthfql_223778807924",
+        "eoghkmun_223778808840",
+        "wellnow0423_223778805372",
+        "wewoori1219_223778810472",
+        "yoonhk71_223778805689"
+      ]
+    },
+    "주간일기||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "kjhmario0527_223816782291",
+        "ormrbb_223816786190",
+        "peachsmint_223816785099",
+        "qqq1367_223816785512",
+        "ryeoiii_223816785805"
+      ]
+    },
+    "주간일기||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "family0508_223851699914",
+        "l9a0kz9oq_223851701709",
+        "sin0899_223851699481",
+        "woduddl01_223851701725",
+        "xodidqnfrlf_223851699819"
+      ]
+    },
+    "주간일기||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "binnnnnn92_223884486009",
+        "cji3oo_223884484077",
+        "ddiwoo08_223884481476",
+        "leechoonchu_223884486189",
+        "wewoori1219_223884485551"
+      ]
+    },
+    "주간일기||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "003dc7_223917259899",
+        "hatvo_223917263448",
+        "lmxoxml_223917262690",
+        "roynmin_223917261300",
+        "wonhee1208_223917262689"
+      ]
+    },
+    "주간일기||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dbstn303_223954392081",
+        "et84_223954388667",
+        "hellofany11_223954392283",
+        "minzpdl_223954390700",
+        "precise6810_223954389412"
+      ]
+    },
+    "주간일기||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "0205jang_223990342350",
+        "best-unionstory_223990343952",
+        "chgs7060_223990344317",
+        "coolmin0721_223990341811",
+        "wewoori1219_223990344352"
+      ]
+    },
+    "주간일기||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ambulanceyt_224025145663",
+        "hnsol28_224027710216",
+        "kghbn93_224027706326",
+        "petua413_224027714251",
+        "wewoori1219_224027714001"
+      ]
+    },
+    "주간일기||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "hynnzi_224060627041",
+        "jig0303_224060631886",
+        "loveseojin0916_224060632144",
+        "lsg0291_224060626388",
+        "shwzzang01_224060631107"
+      ]
+    },
+    "주간일기||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "0229tnals_224093592603",
+        "aimee0824_224093591771",
+        "kjlee1410_224093591575",
+        "psnm0024_224093592392",
+        "umorya_224093592702"
+      ]
+    },
+    "주간일기||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "akrdma1025_224129863387",
+        "cutesheng_224129863707",
+        "jyj020215_224129862859",
+        "semijuni_224129860692",
+        "sow336_224129863540"
+      ]
+    },
+    "주간일기||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cherim2002_224166971984",
+        "countinstars_224166971878",
+        "h1hiya_224166971109",
+        "hyuna5071_224166970873",
+        "wewoori1219_224166971426"
+      ]
+    },
+    "주간일기||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dubhe035_224199699759",
+        "heejoung930_224199699674",
+        "ljw170807_224199699664",
+        "shj5777_224199698929",
+        "spinney1012_224199699078"
+      ]
+    },
+    "주간일기||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "914kg_224236326121",
+        "dbszzi-_224236325322",
+        "dlawndo12345_224236325387",
+        "leeaji940_224236324958",
+        "yunhee1440_224236324980"
+      ]
+    },
+    "주간일기||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "amabilis312_224271032291",
+        "bona2227_224271038565",
+        "hks0060_224271032007",
+        "mh091001_224271034728",
+        "qjrckadl_224271036982"
+      ]
+    },
+    "주간일기||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cji5421_224302107020",
+        "ehee50271_224302107389",
+        "kjlee1410_224302106749",
+        "uncroos_224302106538",
+        "wewoori1219_224302106671"
+      ]
+    },
+    "주간일기||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2824ih_224332362827",
+        "diddbwjd1206_224332364871",
+        "minzy91_224332365829",
+        "qodbsaltjd1_224332364971",
+        "songibeoseot_224332365207"
+      ]
+    },
+    "주간일기||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "allzero0805_224364370925",
+        "ehee50271_224364370981",
+        "kms73117311_224364369786",
+        "my-scarlet_224364370367",
+        "okays2_224364370279"
+      ]
+    },
+    "주간일기||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dfecodbs74_224396673073",
+        "dgjtxtbox_224396673110",
+        "fullflute_224396671565",
+        "jinniyah83_224396670453",
+        "nireat821_224396673658"
+      ]
+    },
+    "주간일기||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dududog2_224427640258",
+        "heyl73_224427644467",
+        "raowwr_224427643920",
+        "why2083_224427642952",
+        "woduddl01_224427639340"
+      ]
+    },
+    "주간일기||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1162027_224460588956",
+        "hemra1n_224460587856",
+        "jjranii_224460588677",
+        "leefeelfeell_224460588256",
+        "wkdwldnj_224460586604"
+      ]
+    },
+    "월간일기||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bluewavwe_223743780274",
+        "kmw8123_223743779779",
+        "kyw0verita_223743781431",
+        "pyk35_223743780109",
+        "qkrtjdgxx_223743781443"
+      ]
+    },
+    "월간일기||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2057178_223778810712",
+        "dlgpwls423_223778808204",
+        "mangnano_223778809621",
+        "nadiarecord_223778810138",
+        "pazzona_223778809576"
+      ]
+    },
+    "월간일기||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "iriririon_223816785281",
+        "nadiarecord_223816784955",
+        "slslsl95_223816786215",
+        "woduddl01_223816780087",
+        "yes08977_223816784041"
+      ]
+    },
+    "월간일기||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 7,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dlgpwls423_223851699806",
+        "kkmina9_223851700178",
+        "siwoomoll22_223851696454",
+        "woduddl01_223851701725",
+        "yelim0524lyl_223851703572"
+      ]
+    },
+    "월간일기||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ddiwoo08_223884481476",
+        "dlgpwls423_223884485342",
+        "jeanyouth_223884484115",
+        "qwermnbvplm_223884482835",
+        "woduddl01_223884475207"
+      ]
+    },
+    "월간일기||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "jsandek27_223917261340",
+        "kkmina9_223917263432",
+        "purewitc_223917257179",
+        "sundae3399_223917248480",
+        "woduddl01_223917261900"
+      ]
+    },
+    "월간일기||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "847299wiz2_223954391288",
+        "hyunjiii1114_223954392163",
+        "jjjjj998_223954380447",
+        "lucy3512_223954381257",
+        "okays2_223954391760"
+      ]
+    },
+    "월간일기||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bbigaeng_223990336767",
+        "haeimom_223989973161",
+        "okays2_223990344025",
+        "tnals963_223990344227",
+        "woduddl01_223990343897"
+      ]
+    },
+    "월간일기||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "countinstars_224027713719",
+        "jje16341_224027713670",
+        "johnkimet_224027708769",
+        "kiwwyz_224027707492",
+        "tytyty8768_224027708034"
+      ]
+    },
+    "월간일기||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2057178_224060631571",
+        "dadain03_224060631160",
+        "mongle2407_224060629705",
+        "songwithnoname_224060631237",
+        "sundae3399_224060631544"
+      ]
+    },
+    "월간일기||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "7opoki_224093593650",
+        "anuymk_224093592232",
+        "highnoon9_224093593173",
+        "rudwo8_224093593495",
+        "star4944_224093591979"
+      ]
+    },
+    "월간일기||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1220me_224129862255",
+        "catfish77777_224129860601",
+        "ksu751_224129863985",
+        "lovemyeveryday_224129864022",
+        "zineelog_224129862782"
+      ]
+    },
+    "월간일기||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2057178_224166970450",
+        "countinstars_224166971878",
+        "meneoow_224166968000",
+        "okays2_224166970922",
+        "tidlslejrgn_224166965849"
+      ]
+    },
+    "월간일기||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dubhe035_224199699759",
+        "mhm01_224199698463",
+        "okays2_224199698452",
+        "tidlslejrgn_224199697761",
+        "woduddl01_224199695300"
+      ]
+    },
+    "월간일기||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cosmopolite1_224202121887",
+        "kiwwyz_224236316696",
+        "lds8835_224236325601",
+        "okays2_224236323819",
+        "ssd06121_224236324003"
+      ]
+    },
+    "월간일기||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cthha1_224271031547",
+        "jiiwonii_224271036543",
+        "sapi23_224271026956",
+        "sonok444_224271037676",
+        "wsidom_224271031070"
+      ]
+    },
+    "월간일기||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "gugaaaan_224302097949",
+        "hatvo_224302105266",
+        "syhong0084_224302097546",
+        "travelpolar_224302101370",
+        "woduddl01_224302103080"
+      ]
+    },
+    "월간일기||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "gaaaooo_224332366070",
+        "lilinalu_224332365957",
+        "miml0000_224332364224",
+        "woduddl01_224332363849",
+        "xooang987_224332363204"
+      ]
+    },
+    "월간일기||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dfecodbs74_224364361196",
+        "gaaaooo_224364369233",
+        "okays2_224364370279",
+        "ruby352536_224364361978",
+        "sunae1011_224364364753"
+      ]
+    },
+    "월간일기||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dfecodbs74_224396673073",
+        "okays2_224396671117",
+        "resilient-_224396671715",
+        "soyoung6655_224396672472",
+        "tldmis707_224396673359"
+      ]
+    },
+    "월간일기||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dailysorr_224427641322",
+        "htnetyam_224427644164",
+        "kiwwyz_224427644447",
+        "woduddl01_224427639340",
+        "yeah1ne_224427644681"
+      ]
+    },
+    "월간일기||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "hemra1n_224460587856",
+        "miml0000_224460587437",
+        "movieidter_224460584060",
+        "nae4book_224460584186",
+        "rbfl2032_224460585853"
+      ]
+    },
+    "일상모음||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cqd200_223743781342",
+        "mint10809_223743780306",
+        "selinak1_223743781505",
+        "sso756_223743780359",
+        "wjsa2018_223743780606"
+      ]
+    },
+    "일상모음||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2008jhh_223778810542",
+        "mymellowdayz_223778809895",
+        "nadiarecord_223778810138",
+        "seltsamderwelpe_223778809874",
+        "yulnivers_223778810566"
+      ]
+    },
+    "일상모음||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "03susan_223816784708",
+        "imxmmn_223816784730",
+        "jihu2006_223816786112",
+        "minsung71_223816785189",
+        "pshj2613_223816784647"
+      ]
+    },
+    "일상모음||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "aloha-young_223851703653",
+        "momentandmemories_223851703677",
+        "n0lw3xeam82_223851703631",
+        "ses2s2s2_223851703661",
+        "wlwldbsdbs6988_223851703564"
+      ]
+    },
+    "일상모음||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "302103h_223884485267",
+        "com9850_223884485462",
+        "dkfk9852_223884485567",
+        "hamsblog-_223884486038",
+        "lyou5054_223884485204"
+      ]
+    },
+    "일상모음||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bang-on_223917262551",
+        "eunjiigu_223917263307",
+        "jiiliili704_223917263843",
+        "mongshongs_223917263817",
+        "rkgl0507_223917263425"
+      ]
+    },
+    "일상모음||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bbhxx522_223954391593",
+        "didoveseitu_223954391331",
+        "mingomii_223954391810",
+        "nangnaring_223954391385",
+        "yeahrong2_223954391584"
+      ]
+    },
+    "일상모음||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1jang829_223990343193",
+        "irxsyxrxm_223990344438",
+        "kwoun0933_223990343114",
+        "luckyhomelovegreen_223990343824",
+        "mongshongs_223990343247"
+      ]
+    },
+    "일상모음||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doubly-v_224027714196",
+        "erintr2_224027714996",
+        "heenerge_224027715193",
+        "loveallaround_224027714273",
+        "luckys2luv_224027715547"
+      ]
+    },
+    "일상모음||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "eunnnc_224060631816",
+        "ovnne0wg_224060631905",
+        "roxysh_224060631058",
+        "sundae3399_224060631544",
+        "zikmukzikzzik_224060630721"
+      ]
+    },
+    "일상모음||2025-11": {
+      "status": "completed",
+      "success_count": 4,
+      "candidates_seen": 7,
+      "failures": 3,
+      "reason": "search_path_exhausted_or_short",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "7opoki_224093593650",
+        "dailygold_224093592927",
+        "soux11_224093591990",
+        "syoujeong07_224093593083"
+      ]
+    },
+    "일상모음||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ch7n81n_224129862989",
+        "rhal0811_224129861947",
+        "thdqhrud03_224129862307",
+        "xy3on_224129861060",
+        "yookr99_224129862058"
+      ]
+    },
+    "일상모음||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "jkm5005_224166971912",
+        "qoalskzm_224166971853",
+        "seoyoung08294_224166971060",
+        "theeyeofaneedle_224166971956",
+        "wldus0996_224166971492"
+      ]
+    },
+    "일상모음||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "allarounddesigner_224199699133",
+        "dongseoyoung_224199698663",
+        "greeeneee_224199699439",
+        "imvegetable_224199699513",
+        "tnrud6536_224199699659"
+      ]
+    },
+    "일상모음||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 14,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doloveall_224236326259",
+        "glorybeen_224236326640",
+        "jongho0124_224236325844",
+        "tddbr0w0_224236325646",
+        "whitejj-1216_224236325152"
+      ]
+    },
+    "일상모음||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "marie0902_224271037965",
+        "moebgnoynihs_224271038200",
+        "narin0977_224271037818",
+        "sonok444_224271037676",
+        "tasol67_224271038439"
+      ]
+    },
+    "일상모음||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chummilmil99_224302107101",
+        "gmlrud7396_224302107241",
+        "kha0527_224302106328",
+        "o1057723752_224302106583",
+        "seriieun_224302106366"
+      ]
+    },
+    "일상모음||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doyecn_224332365001",
+        "enuxaoy_224332366555",
+        "wcn03063_224332365679",
+        "ynwls_224332365288",
+        "zxyouvx_224332365678"
+      ]
+    },
+    "일상모음||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bzxun_224364370484",
+        "isj1511_224364370290",
+        "songminji1388_224364371182",
+        "tkfkdgody1101_224364371063",
+        "yuyurmyh_224364370565"
+      ]
+    },
+    "일상모음||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1lliovx_224396674122",
+        "kuju3699_224396673735",
+        "mongshongs_224396673761",
+        "threeaxes_224396674412",
+        "yjson225_224396673472"
+      ]
+    },
+    "일상모음||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "gruckchu_224427644663",
+        "hamsblog-_224427644707",
+        "ksson7890_224427644680",
+        "min191117_224427644802",
+        "palettelee_224427644148"
+      ]
+    },
+    "일상모음||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "eunddo0310_224460588165",
+        "newsong2e5_224460588478",
+        "p-sunny0522_224460588175",
+        "sara2778_224460588109",
+        "suk0ee5_224460588683"
+      ]
+    },
+    "포토덤프||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2eemh_223743779924",
+        "floor12_223743778937",
+        "hide4541_223743781127",
+        "icdilily_223743780285",
+        "ne1012_223743780088"
+      ]
+    },
+    "포토덤프||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ehee50271_223778809134",
+        "emerald8329_223778802702",
+        "emerald8329_223778808447",
+        "jylawkim_223778808341",
+        "kium-english-up_223778809644"
+      ]
+    },
+    "포토덤프||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doowoncareer_223816786380",
+        "hellofany11_223816786014",
+        "iy1125_223816784354",
+        "mongooseinseochon_223816782307",
+        "ttmd722_223816782436"
+      ]
+    },
+    "포토덤프||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ehee50271_223851703517",
+        "eunbyeoljang_223851704122",
+        "floor12_223851701706",
+        "rim5212_223851702358",
+        "smilespring4me_223851699799"
+      ]
+    },
+    "포토덤프||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ind0508_223884485296",
+        "jin2326_223884485092",
+        "jjh9182_223884483587",
+        "nyangnyang81_223884484692",
+        "viettv_223884483583"
+      ]
+    },
+    "포토덤프||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "floor12_223917258787",
+        "j2k8000_223917257026",
+        "lgglybuff_223917257673",
+        "serendipitystory_223917259624",
+        "sosannim_223917253879"
+      ]
+    },
+    "포토덤프||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "endyd8448_223954387113",
+        "floor12_223954381958",
+        "hkpsky_223954388522",
+        "sonadesu_223954380125",
+        "yugus_223954381845"
+      ]
+    },
+    "포토덤프||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ccjh8579_223990339213",
+        "hari33_223990341401",
+        "letitbeg_223990339715",
+        "myinglife_223990340907",
+        "wwonwoow_223990341994"
+      ]
+    },
+    "포토덤프||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "geunyang-_224027702328",
+        "kwj6915_224027701104",
+        "odri1998_224027705736",
+        "total-recall_224027714661",
+        "wl477dms_224027712547"
+      ]
+    },
+    "포토덤프||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "gnalsdl2_224060631515",
+        "kpstock_224060632123",
+        "mytreasurethree_224060625332",
+        "slow0912_224060626128",
+        "slow0912_224060627848"
+      ]
+    },
+    "포토덤프||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bearyuny_224093593008",
+        "blogofficial_224093587781",
+        "katek62_224093591331",
+        "sara2778_224093587351",
+        "taegu1005_224093587575"
+      ]
+    },
+    "포토덤프||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chaeeun8125_224129862513",
+        "dabdab81_224129858181",
+        "nk8986712_224129859679",
+        "sayhi0721_224129863195",
+        "sella7083_224129863927"
+      ]
+    },
+    "포토덤프||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "boungjea73_224166965470",
+        "ehee50271_224166971133",
+        "lisyun390_224166971746",
+        "wbelf_224166970929",
+        "zeemin00_224166969932"
+      ]
+    },
+    "포토덤프||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "blueberrying12_224199694471",
+        "sara2778_224199700152",
+        "woosom67_224199694704",
+        "xoxowjy_224199699288",
+        "yenjufj_224199698640"
+      ]
+    },
+    "포토덤프||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1940222_224236324884",
+        "ilovejiah0225_224236322563",
+        "jandyinhyung_224236320002",
+        "shahjene_224236313827",
+        "ysw4915_224236326354"
+      ]
+    },
+    "포토덤프||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doowoncareer_224271030773",
+        "jjini800_224271036676",
+        "khy3554_224271030807",
+        "khy3554_224271032965",
+        "sara2778_224271032582"
+      ]
+    },
+    "포토덤프||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "carra111_224302105388",
+        "gkdlzpffl_224302098144",
+        "helpguy2_224302101236",
+        "moon6650suha_224302101049",
+        "susie7874_224302067956"
+      ]
+    },
+    "포토덤프||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "arrrive2_224332364432",
+        "continue100_224332357055",
+        "duck0827_224332356037",
+        "greenyj58_224332365631",
+        "sara2778_224332366444"
+      ]
+    },
+    "포토덤프||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ehee50271_224364370981",
+        "fiypich_224364369175",
+        "ligue1_224364368190",
+        "seovely998_224364364953",
+        "wwonwoow_224364365606"
+      ]
+    },
+    "포토덤프||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1lliovx_224396674122",
+        "day0067_224396667857",
+        "ellykims_224396673505",
+        "susu030201_224396672757",
+        "yunnnin_224396673867"
+      ]
+    },
+    "포토덤프||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "baboda5702_224427639037",
+        "guming9_224427641501",
+        "jwryu7338_224427637355",
+        "tapgol1959_224427637201",
+        "wodud3005_224427099805"
+      ]
+    },
+    "포토덤프||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "anykn5_224460589241",
+        "dxn9i_224460578853",
+        "kjj3847_224460578943",
+        "sara2778_224460588109",
+        "wlgus10104_224460577918"
+      ]
+    },
+    "여행 기록||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chaeonlog_223743780844",
+        "inyoung4517_223743780620",
+        "irkgus_223743781322",
+        "navybottle_223743780276",
+        "yenia16_223743781663"
+      ]
+    },
+    "여행 기록||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1599tennis_223778810967",
+        "324toddlf_223778810734",
+        "ieunbin517_223778809146",
+        "myoojane_223778810435",
+        "s205135_223778810904"
+      ]
+    },
+    "여행 기록||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "6tmdgus_223816785816",
+        "mim0402_223816785428",
+        "momotmin_223816786365",
+        "quirkify_223816784907",
+        "redplum02_223816785890"
+      ]
+    },
+    "여행 기록||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cjhzgg_223851703906",
+        "foxracesoon2_223851703342",
+        "kbm1969_223851704311",
+        "photographer-miyon_223851704032",
+        "yeji5407_223851703491"
+      ]
+    },
+    "여행 기록||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "designer1975_223884485816",
+        "dlgpwls423_223884485342",
+        "greenpastures23_223884484685",
+        "sampoo79_223884486118",
+        "wnvh97531_223884484823"
+      ]
+    },
+    "여행 기록||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "alicekim3131_223917263480",
+        "ofcourseolive_223917262374",
+        "qufqufquf333_223917263533",
+        "sunsos7_223917262303",
+        "yooeunmommy0703_223917263908"
+      ]
+    },
+    "여행 기록||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "assajihoo_223954392124",
+        "jinidag_223954392026",
+        "vividbibi_223954391823",
+        "xhtlfwjddms_223954391359",
+        "ylyj2023_223954392686"
+      ]
+    },
+    "여행 기록||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chamchi128_223990343912",
+        "mimimiblog-_223990344013",
+        "okays2_223990344025",
+        "oxnxlxy_223990343391",
+        "yeondukong119_223990343225"
+      ]
+    },
+    "여행 기록||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "0011sujin_224027714511",
+        "khr5069_224027715281",
+        "mullaedondurma_224027714223",
+        "nantana1357_224027715201",
+        "perti_224027714126"
+      ]
+    },
+    "여행 기록||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 27,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "beo-nyang_224060631820",
+        "eunwon815_224060631245",
+        "gpwl6439_224060631862",
+        "mongshongs_224060631147",
+        "songwithnoname_224060631237"
+      ]
+    },
+    "여행 기록||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "curatewalk_224093592032",
+        "kimsoozn_224093592974",
+        "llhk1004_224093593196",
+        "rofla1616_224093591922",
+        "tmsktmsk125_224093592813"
+      ]
+    },
+    "여행 기록||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "0114agnes_224129862836",
+        "helloyujin1220_224129863490",
+        "jeu0104_224129861411",
+        "june-ing_224129861314",
+        "vtmhhh_224129862754"
+      ]
+    },
+    "여행 기록||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "9001067_224166971734",
+        "folkpainting_224166971564",
+        "jiniandkristina_224166971383",
+        "sumrtrbl_224166970333",
+        "yeewon1217_224166970403"
+      ]
+    },
+    "여행 기록||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1nhy0_224199699864",
+        "7838329_224199699515",
+        "ddudud_224199698826",
+        "ekwjd2303_224199698751",
+        "gy2128_224199698992"
+      ]
+    },
+    "여행 기록||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "als1891_224236326577",
+        "everylettersisentyou_224236326295",
+        "hyeseon32_224236325144",
+        "rudso94_224236325401",
+        "yenisis_224236326508"
+      ]
+    },
+    "여행 기록||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dladkgus1015_224271038876",
+        "eyunsixx_224271038583",
+        "giblerxsruggsi1_224271037841",
+        "mitni_224271038830",
+        "wunglog_224271038057"
+      ]
+    },
+    "여행 기록||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doingeun_224302107126",
+        "kjlee1410_224302106749",
+        "min2nara_224302106869",
+        "rosettela_224302106428",
+        "sodalited_224302106728"
+      ]
+    },
+    "여행 기록||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bundeswehr1955_224332366478",
+        "haha6539_224332365205",
+        "ksr031205_224332366557",
+        "mongshongs_224332365752",
+        "wonph_224332365926"
+      ]
+    },
+    "여행 기록||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "allorda_224364370467",
+        "bzxun_224364370484",
+        "kimleehe_224364370511",
+        "rose1260_224364370377",
+        "wlswn362_224364370285"
+      ]
+    },
+    "여행 기록||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2oo9o6o8_224396673413",
+        "ari9910_224396673891",
+        "chess1004_224396674541",
+        "mangokong11_224396673576",
+        "yhkjwo_224396673681"
+      ]
+    },
+    "여행 기록||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "lds8835_224427643975",
+        "mongshongs_224427643823",
+        "nolgoongrihye_224427643892",
+        "oxnxlxy_224427645096",
+        "sooparkeg_224427644831"
+      ]
+    },
+    "여행 기록||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "everclearsky_224460589323",
+        "flatflatwhite_224460588881",
+        "imwoody_224460588253",
+        "rosettela_224460589041",
+        "wndmsgp0728_224460588610"
+      ]
+    },
+    "산책 기록||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dmswl4083_223743780601",
+        "ghdqja426_223743780376",
+        "misale9797_223743780320",
+        "pyk35_223743780109",
+        "rnjsjy_223743781144"
+      ]
+    },
+    "산책 기록||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ay5870_223778809811",
+        "gusduddl93_223778810411",
+        "jeooongg_223778810742",
+        "keg9317_223778809519",
+        "ksxumin_223778809384"
+      ]
+    },
+    "산책 기록||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cjy1444_223816786491",
+        "dbf0eb_223816785477",
+        "h-justitia2000_223816785715",
+        "iriririon_223816785281",
+        "sourtaste_223816785824"
+      ]
+    },
+    "산책 기록||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dansyun_223851703848",
+        "dbdosk0000_223851703526",
+        "dokynng_223851703086",
+        "kbm1969_223851704311",
+        "kimminseo112306_223851702975"
+      ]
+    },
+    "산책 기록||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "hamsblog-_223884486038",
+        "hnsky29_223884485471",
+        "jinidag_223884485314",
+        "loveallaround_223884485821",
+        "mindan-_223884485975"
+      ]
+    },
+    "산책 기록||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 14,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chaechae508_223917263628",
+        "danpcanis_223917263299",
+        "easther111_223917263319",
+        "imseoaa_223917263031",
+        "lyg5319_223917262649"
+      ]
+    },
+    "산책 기록||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "fromysummer_223954391416",
+        "ha2in1yam_223954391726",
+        "naegabo_223954391875",
+        "sim-je4121_223954391572",
+        "yeewon1217_223954391607"
+      ]
+    },
+    "산책 기록||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 19,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "choienffl_223990343858",
+        "hiimimsumin_223990343217",
+        "hyonee-3_223990344328",
+        "pebbleyeon_223990344534",
+        "yeewon1217_223990343244"
+      ]
+    },
+    "산책 기록||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "katomda7632_224027714204",
+        "loveallaround_224027714273",
+        "yejinjeon050311_224027715106",
+        "yoonspringanna22_224027714350",
+        "yu4579_224027714396"
+      ]
+    },
+    "산책 기록||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bomin1203_224060631869",
+        "csshim0629_224060631479",
+        "jjejje218_224060631346",
+        "loveseojin0916_224060632144",
+        "zsu226_224060631600"
+      ]
+    },
+    "산책 기록||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "elsa5-_224093593462",
+        "ga8852_224093592893",
+        "jy8977_224093591750",
+        "lizzae1214_224093591795",
+        "mjkkim1993_224093592727"
+      ]
+    },
+    "산책 기록||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "alicejk0105_224129862860",
+        "everclearsky_224129861382",
+        "green2je_224129863785",
+        "kimjeogu_224129862360",
+        "sow336_224129863540"
+      ]
+    },
+    "산책 기록||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dladkgus1015_224166970416",
+        "hyeongya_224166970988",
+        "jiyoon040625_224166971086",
+        "pinkerin0925_224166971486",
+        "yes8082_224166970742"
+      ]
+    },
+    "산책 기록||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "7838329_224199699515",
+        "ekwjd2303_224199698751",
+        "hwijyu_224199699244",
+        "rlagmldud200_224199698731",
+        "snfla9100_224199699158"
+      ]
+    },
+    "산책 기록||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doloveall_224236326259",
+        "glorybeen_224236326640",
+        "hakkyk_224236325868",
+        "rlagmldud200_224236326045",
+        "xooang987_224236325325"
+      ]
+    },
+    "산책 기록||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 5,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "aprilxdabin_224271038751",
+        "ayo9942_224271038614",
+        "eyunsixx_224271038583",
+        "jjos1416_224271038209",
+        "limjh5507_224271037951"
+      ]
+    },
+    "산책 기록||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 27,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "eyunsixx_224302106970",
+        "gmlrud7396_224302107241",
+        "kha0527_224302106328",
+        "nimost_224302107027",
+        "xodidqnfrlf_224302107397"
+      ]
+    },
+    "산책 기록||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chadollpark_224332366568",
+        "jjung6v6_224332365388",
+        "kuseeya_224332365107",
+        "sanghaon_224332366001",
+        "tjgus169_224332365268"
+      ]
+    },
+    "산책 기록||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2shon2_224364371001",
+        "heyl73_224364370136",
+        "ksh11m_224364371158",
+        "pinkdora00_224364370348",
+        "yeewon1217_224364370127"
+      ]
+    },
+    "산책 기록||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 26,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "animania83_224396674258",
+        "haxnza1_224396674518",
+        "minyoung4622_224396674652",
+        "rkrk0217_224396674029",
+        "silvergroundlee_224396674175"
+      ]
+    },
+    "산책 기록||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "alsthd7_224427643768",
+        "hksemy22_224427643788",
+        "kiwwyz_224427644447",
+        "oxnxlxy_224427645096",
+        "please31_224427644475"
+      ]
+    },
+    "산책 기록||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "mom-escape_224460588658",
+        "p-sunny0522_224460588175",
+        "rkgus0910-_224460588095",
+        "sara2778_224460588109",
+        "smilehhh_224460589324"
+      ]
+    },
+    "동네 산책||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "applepie1100_223743780313",
+        "loveallaround_223743779987",
+        "mangcho-fmn_223743781350",
+        "pyk35_223743780109",
+        "rnjsjy_223743781144"
+      ]
+    },
+    "동네 산책||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chlora_223778810415",
+        "dlgpwls423_223778808204",
+        "ksxumin_223778809384",
+        "loveallaround_223778810186",
+        "lovelylau_223778809921"
+      ]
+    },
+    "동네 산책||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "iamyeha_223816786122",
+        "pockylog_223816786042",
+        "soohyun0125_223816784894",
+        "ume1213_223816786531",
+        "yellowpajamas_223816784817"
+      ]
+    },
+    "동네 산책||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 5,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "mongshongs_223851703018",
+        "shape-of-blue_223851702199",
+        "tnatnatna_223851701990",
+        "wavelenghcool_223851704165",
+        "ym5077_223851702355"
+      ]
+    },
+    "동네 산책||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dkfk9852_223884485567",
+        "hamsblog-_223884486038",
+        "jypyun-736_223884485499",
+        "loveallaround_223884485821",
+        "nya915_223884484746"
+      ]
+    },
+    "동네 산책||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "danpcanis_223917263299",
+        "eunchong0110_223917263479",
+        "fpdlfkfnzk_223917262383",
+        "jin834588_223917263405",
+        "loveallaround_223917263403"
+      ]
+    },
+    "동네 산책||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ccll28_223954391666",
+        "forestopia_223954391235",
+        "loveallaround_223954391284",
+        "nangnaring_223954391385",
+        "wjddms1036_223954391302"
+      ]
+    },
+    "동네 산책||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "hiimimsumin_223990343217",
+        "machine-map_223990344056",
+        "maejiness_223990344153",
+        "mnxxi_223990344116",
+        "wjddms1036_223990343235"
+      ]
+    },
+    "동네 산책||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "kiwipine_224027714180",
+        "loveallaround_224027714273",
+        "soni1125_224027714093",
+        "soojchun_224027714734",
+        "wlzlrv_224027714968"
+      ]
+    },
+    "동네 산책||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "doll76_224060631055",
+        "eekim63_224060631257",
+        "fromysummer_224060631657",
+        "joyfull2030_224060630892",
+        "shl04051_224060631122"
+      ]
+    },
+    "동네 산책||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "aimee0824_224093591771",
+        "teololy_224093592017",
+        "wcn03063_224093591981",
+        "woojutokki_224093592006",
+        "ytrfgu_224093592628"
+      ]
+    },
+    "동네 산책||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "blue2489_224129861815",
+        "lovedldnt_224129863596",
+        "teamoment_224129861546",
+        "thdqhrud03_224129862307",
+        "ysyu123_224129861605"
+      ]
+    },
+    "동네 산책||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "kcyang79_224166970586",
+        "kodbxx_224166971255",
+        "mfesva_224166971735",
+        "shnshn9419_224166970257",
+        "yes8082_224166970742"
+      ]
+    },
+    "동네 산책||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ameerayork_224199699454",
+        "heejoung930_224199699674",
+        "jueun0330_224199698783",
+        "lmj0724_224199699480",
+        "xoxowjy_224199699288"
+      ]
+    },
+    "동네 산책||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 4,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bykimdonut_224236324725",
+        "heyl73_224236324664",
+        "snailpepper_224236325235",
+        "songibeoseot_224236325565",
+        "tddbr0w0_224236325646"
+      ]
+    },
+    "동네 산책||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "aprilxdabin_224271038751",
+        "arialblack_224271038597",
+        "gmlrud7396_224271038382",
+        "inbogid9245_224271037903",
+        "sayoon-_224271038249"
+      ]
+    },
+    "동네 산책||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "eehoes_224302106776",
+        "kodbxx_224302107180",
+        "mongshongs_224302106530",
+        "rimlog7_224302106757",
+        "xuzxxro_224302107618"
+      ]
+    },
+    "동네 산책||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "guuyuu_224332365825",
+        "hnfskhx606_224332365549",
+        "josephine914_224332365551",
+        "who-i-am_224332365888",
+        "wmwmnw_224332365395"
+      ]
+    },
+    "동네 산책||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "heyl73_224364370136",
+        "imgoneji_224364368997",
+        "loveoursummer_224364370500",
+        "rose1260_224364370377",
+        "youngkone-_224364370971"
+      ]
+    },
+    "동네 산책||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2heyday_224396674092",
+        "chess1004_224396674541",
+        "haewon0901_224396673578",
+        "jun201718_224396673397",
+        "ohgogyeol_224396674150"
+      ]
+    },
+    "동네 산책||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 6,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "aurorava_224427644917",
+        "ggfrend_224427644582",
+        "lustreyoung_224427644209",
+        "soeun086_224427644247",
+        "why2083_224427642952"
+      ]
+    },
+    "동네 산책||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "heyseoyoung-_224460588453",
+        "iulin1017_224460589179",
+        "leefeelfeell_224460588256",
+        "rosettela_224460589041",
+        "strolldawn_224460588524"
+      ]
+    },
+    "전시 후기||2025-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "8ooz-_223743780563",
+        "eornrsayclub_223743781574",
+        "michaelmechury_223743781359",
+        "rnjsjy_223743781144",
+        "szlov2sz_223743779780"
+      ]
+    },
+    "전시 후기||2025-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "hyenju95_223778809860",
+        "jason475_223778809742",
+        "jeooongg_223778810742",
+        "pink6735_223778810725",
+        "sjparknim_223778810055"
+      ]
+    },
+    "전시 후기||2025-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 14,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "03susan_223816784708",
+        "dahyun023_223816784906",
+        "jimgo0n2_223816785739",
+        "lisletter_223816786090",
+        "sunderfree_223816785962"
+      ]
+    },
+    "전시 후기||2025-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2eemh_223851702999",
+        "691878_223851702861",
+        "edevn_223851703482",
+        "elmirainca_223851703529",
+        "ses2s2s2_223851703661"
+      ]
+    },
+    "전시 후기||2025-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1599tennis_223884485448",
+        "ann06_223884486177",
+        "fromysummer_223884485093",
+        "ksxumin_223884485539",
+        "ninang9_223884485782"
+      ]
+    },
+    "전시 후기||2025-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "loveallaround_223917263403",
+        "movegoara_223917263671",
+        "o0pumpkin0o_223917263163",
+        "ryniyeoni_223917263720",
+        "tr5_223917263540"
+      ]
+    },
+    "전시 후기||2025-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "choiys731yy_223954392282",
+        "choo980304_223954392489",
+        "hyunjiii1114_223954392163",
+        "kiribyul_223954391353",
+        "yebbi60721_223954392582"
+      ]
+    },
+    "전시 후기||2025-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "92hyeee_223990344162",
+        "chgs7060_223990344317",
+        "fromysummer_223990343257",
+        "kangyul1122_223990343091",
+        "xxiony_223990343646"
+      ]
+    },
+    "전시 후기||2025-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "bakingdrawing_224027714214",
+        "fromysummer_224027713986",
+        "jieuneee-_224027714321",
+        "tableinsight_224027715331",
+        "takangel_224027714912"
+      ]
+    },
+    "전시 후기||2025-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "comg0629_224060631474",
+        "fnfn9082_224060631968",
+        "kangji4799_224060630822",
+        "onmomdaye_224060631093",
+        "songwithnoname_224060631237"
+      ]
+    },
+    "전시 후기||2025-11": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "hemchive_224093592241",
+        "moviezip_224093593512",
+        "scnue_224093592207",
+        "smile-min-_224093592764",
+        "xp12fjs_224093591778"
+      ]
+    },
+    "전시 후기||2025-12": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 24,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": true,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "kimjeogu_224129862360",
+        "merrxy_224129863487",
+        "pcy113600_224129861150",
+        "sieun917_224129861720",
+        "sow336_224129863540"
+      ]
+    },
+    "전시 후기||2026-01": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 1,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "2eere_224166971577",
+        "cotimarn_224166971496",
+        "loveoursummer_224166971889",
+        "siwone823_224166970935",
+        "uhyun923_224166971481"
+      ]
+    },
+    "전시 후기||2026-02": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "7838329_224199699515",
+        "aidensheaven_224199700250",
+        "fleur120_224199699828",
+        "innisisfree_224199699470",
+        "ji0645_224199699583"
+      ]
+    },
+    "전시 후기||2026-03": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 0,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "b1ndung_224236325561",
+        "doloveall_224236326259",
+        "oko3935_224236325508",
+        "sesame9980_224236326494",
+        "snailpepper_224236325235"
+      ]
+    },
+    "전시 후기||2026-04": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "dahee3838_224271037629",
+        "dahiary0908_224271037843",
+        "imtaehana_224271038631",
+        "syp15_224271037814",
+        "ttokkusea_224271037641"
+      ]
+    },
+    "전시 후기||2026-05": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "ellenandb_224302106475",
+        "hejmhm_224302106633",
+        "rladmswn220_224302107420",
+        "shinyfreely_224302106797",
+        "wow-water_224302106253"
+      ]
+    },
+    "전시 후기||2026-06": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "cutiedada_224332365320",
+        "ellenandb_224332365253",
+        "imyourkeyringgirl_224332365961",
+        "kabareyuki_224332365826",
+        "palettelee_224332365711"
+      ]
+    },
+    "전시 후기||2026-07": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "chaerishhh_224364370000",
+        "cloudjharea9860_224364370989",
+        "hyunggo1113_224364370794",
+        "leesa754_224364371073",
+        "s20ve_224364370516"
+      ]
+    },
+    "전시 후기||2026-08": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 2,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "gyumm2_224396674682",
+        "happysaip_224396673724",
+        "llovnj_224396673839",
+        "ooloo009_224396674710",
+        "sesem07_224396673493"
+      ]
+    },
+    "전시 후기||2026-09": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 3,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "0220j_224427644324",
+        "jini-hoya_224427644089",
+        "leehunboki_224427644116",
+        "pie0123_224427644492",
+        "piiin_224427645030"
+      ]
+    },
+    "전시 후기||2026-10": {
+      "status": "completed",
+      "success_count": 5,
+      "candidates_seen": 30,
+      "failures": 5,
+      "reason": "target_reached",
+      "sort_confirmed": true,
+      "period_confirmed": true,
+      "search_exhausted": false,
+      "search_error": null,
+      "robots_note": "section.blog.naver.com robots.txt User-agent:* Disallow:/ ; used rate-limited browser search for public research discovery only; no recursive blog crawl.",
+      "success_post_ids": [
+        "1hyun_224460587451",
+        "dosa531_224460587708",
+        "eunddo0310_224460588165",
+        "solco1023_224460588144",
+        "suhu2222_224460588964"
+      ]
+    }
+  },
+  "created_at": "2026-11-19T21:47:06.552368+09:00",
+  "config_fingerprint": "cba0417d7bcffeb4"
+}
