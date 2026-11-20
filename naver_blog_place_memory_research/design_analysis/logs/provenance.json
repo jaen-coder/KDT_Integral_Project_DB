@@ -1,0 +1,45 @@
+{
+  "run_id": "place_memory_design_analysis_20261120",
+  "python": "3.12.10 (tags/v3.12.10:0cc8128, Apr  8 2025, 12:21:36) [MSC v.1943 64 bit (AMD64)]",
+  "platform": "Windows-10-10.0.19045-SP0",
+  "font": "Malgun Gothic",
+  "files": {
+    "primary_posts": {
+      "path": "C:\\DB_INTEGRAL\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\posts.csv",
+      "sha256": "72ea7349d5e01d4eb8099f1601e04d68a4ed885747cc830732705457f9efa6a4",
+      "rows": 1273
+    },
+    "primary_comments": {
+      "path": "C:\\DB_INTEGRAL\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\comments.csv",
+      "sha256": "f74ca86bcd8e7c6fb47ec55e4a86d8e287a5e5578529d216cda9d7e1618b4665",
+      "rows": 4737
+    },
+    "primary_search_hits": {
+      "path": "C:\\DB_INTEGRAL\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\search_hits.csv",
+      "sha256": "11043d961bb367315e4429b486d7eb2f4ba6e8b7ac1152fe6e39b2787b8b3286",
+      "rows": 1456
+    },
+    "aggregate_stats": {
+      "path": "C:\\DB_INTEGRAL\\KDT_Integral_Project_Data\\naver_blog_place_memory_research\\data\\aggregate_stats.json",
+      "sha256": "86af14c7645efb934102816e65f0c5447ca205be7b4d6147b8dd0f68eed4f4b4",
+      "rows": null
+    }
+  },
+  "excel_not_double_counted": true,
+  "collection_keywords_actual": [
+    "일상 기록",
+    "사진 일기",
+    "주간일기",
+    "월간일기",
+    "일상모음",
+    "포토덤프",
+    "여행 기록",
+    "산책 기록",
+    "동네 산책",
+    "전시 후기"
+  ],
+  "published_at_min": "2025-01-31T23:51:00+09:00",
+  "published_at_max": "2026-10-31T23:59:00+09:00",
+  "unique_posts_stored": 1273,
+  "unique_posts_extract_success": 974
+}

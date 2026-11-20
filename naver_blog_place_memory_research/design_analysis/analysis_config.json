@@ -1,0 +1,43 @@
+{
+  "run_id": "place_memory_design_analysis_20261120",
+  "random_seed": 20261120,
+  "timezone": "Asia/Seoul",
+  "source": {
+    "data_dir": "../data",
+    "primary_posts": "posts.csv",
+    "primary_comments": "comments.csv",
+    "primary_search_hits": "search_hits.csv",
+    "primary_monthly_summary": "monthly_summary.csv",
+    "primary_collection_log": "collection_log.csv",
+    "aggregate_stats": "aggregate_stats.json",
+    "excel_reference_only": "research_dataset.xlsx",
+    "note": "CSV를 본문 전체 텍스트의 정본으로 사용. Excel은 동일 데이터의 다른 형식이므로 중복 합산하지 않음. Excel 본문은 일부 잘릴 수 있음."
+  },
+  "period": {
+    "start": "2025-01-01",
+    "end": "2026-10-31"
+  },
+  "corpus": {
+    "require_extraction_success": true,
+    "analysis_eligible_values": ["포함"],
+    "content_type_values": ["개인 경험"],
+    "mixed_eligible_values": ["검토 필요"],
+    "mixed_content_types": ["혼합"],
+    "reuse_concept_analysis_corpus": true,
+    "concept_analysis_ref": "../analysis/analysis_config.yaml"
+  },
+  "coding": {
+    "method": "rule_based_design_phrase_patterns_v1",
+    "model": null,
+    "note": "원문 탐색 후 설계한 규칙 기반 문맥 패턴. 생성형 AI 분류 미사용. 이미지·스킨·HEX는 분석하지 않음."
+  },
+  "review": {
+    "sample_size": 50,
+    "seed": 20261120,
+    "status_label": "자동 분류 및 재검토"
+  },
+  "outputs": {
+    "charts_dir": "charts",
+    "logs_dir": "logs"
+  }
+}

@@ -1,0 +1,51 @@
+{
+  "core_posts": 843,
+  "core_authors": 764,
+  "direct_evidence_posts": 188,
+  "indirect_evidence_posts": 162,
+  "comment_design_evidence": 54,
+  "directions": [
+    {
+      "id": "D1",
+      "name": "순간을 붙잡는 사진 카드",
+      "status": "우선 검토"
+    },
+    {
+      "id": "D2",
+      "name": "장소의 빛과 색을 발견하는 지도",
+      "status": "우선 검토"
+    },
+    {
+      "id": "D3",
+      "name": "가볍게 남기고, 꾸밈은 선택",
+      "status": "탐색 후보"
+    }
+  ],
+  "top_elements": [
+    {
+      "normalized_design_element": "귀엽다·예쁘다·감성(이유 불명)",
+      "mention_posts": 132,
+      "positive_posts": 126
+    },
+    {
+      "normalized_design_element": "사진 결과물 시각 평가",
+      "mention_posts": 43,
+      "positive_posts": 27
+    },
+    {
+      "normalized_design_element": "네컷·포토부스·스티커사진",
+      "mention_posts": 40,
+      "positive_posts": 1
+    },
+    {
+      "normalized_design_element": "스티커·프레임·꾸밈",
+      "mention_posts": 35,
+      "positive_posts": 11
+    },
+    {
+      "normalized_design_element": "구체 색 이름+평가",
+      "mention_posts": 34,
+      "positive_posts": 28
+    }
+  ]
+}
