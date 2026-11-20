@@ -1,0 +1,9 @@
+﻿logical,posts,comments,hits
+post_id,post_id,post_id,post_id
+url,canonical_url,-,result_url
+body,body_text,comment_text,search_snippet
+author,author_key,commenter_key,-
+date,published_at,commented_at,search_month
+query,via search_hits,-,query
+analysis_flag,analysis_eligible,-,-
+content_type,content_type,-,-

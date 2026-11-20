@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 310,
+  "count": 10,
+  "next_offset": 320,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14168197731",
+      "date": "2026-06-11T01:41:52Z",
+      "rating": 5,
+      "title": "살거같아~~",
+      "body": "두달째 위가 답답하고 쓰리고 목까지 꽉찬느낌 (?)이랄까  내시경해도 아무이상없고 너무 힘들었는데 양베진먹고 일주일후부터 증상이 많이 완화되어 지금은 살거같아요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14166159109",
+      "date": "2026-06-10T13:59:31Z",
+      "rating": 5,
+      "title": "Good",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14162788259",
+      "date": "2026-06-09T16:21:48Z",
+      "rating": 1,
+      "title": "비번 찾기",
+      "body": "오류가 너무 많이 떠요 비밀번호 찾기 하는데 들어갈 수가 없네요ㅠㅠ 고쳐주세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14157823286",
+      "date": "2026-06-08T10:23:11Z",
+      "rating": 3,
+      "title": "Too many fake accounts.",
+      "body": "It seems like you aren't managing the accounts.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14157624711",
+      "date": "2026-06-08T08:55:15Z",
+      "rating": 5,
+      "title": "미나리삼겹살입니다",
+      "body": "페이스북응원합니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14155497994",
+      "date": "2026-06-07T18:09:12Z",
+      "rating": 1,
+      "title": "후..",
+      "body": "로그인했는데왜안되냐고미치겠다진짜페북이왜이러지?서버관리똑바로안함?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14154468116",
+      "date": "2026-06-07T12:56:04Z",
+      "rating": 2,
+      "title": "갑자기 동영상 사진 왜 같이 못 올림?",
+      "body": "아니 왜 자꾸 이상한거 해서 멀쩡한거 바꾸냐고, 제발 건드리지 말고 그냥 둬 좀...",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14154149072",
+      "date": "2026-06-07T11:05:35Z",
+      "rating": 1,
+      "title": "계정 해킹당했는데 할 슈 있는게 없음",
+      "body": "말그대로 계정 복구도 못하고 그냥 털림 해결도 못함",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14153335235",
+      "date": "2026-06-07T05:23:41Z",
+      "rating": 1,
+      "title": "업데이트 할 때마다 문제",
+      "body": "도대체 거지같은 UX로 계속 바꾸는 이유가 뭐야? 댓글도 더보기 누르면 없어지고, 최신/전체보기 이런 옵션도 없어지고",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14150549963",
+      "date": "2026-06-06T12:43:00Z",
+      "rating": 5,
+      "title": "Ô sờ kê",
+      "body": "Ve ry gutttttt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

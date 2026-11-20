@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 0,
+  "count": 10,
+  "next_offset": 10,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14801317975",
+      "date": "2026-11-17T12:33:32Z",
+      "rating": 5,
+      "title": "노기",
+      "body": "💖💖💖💖💖💖💖💖💖💖🎀🎀🎀👼🏻👼🏻👼🏻👼🏻👼🏻",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14795838094",
+      "date": "2026-11-16T01:17:40Z",
+      "rating": 5,
+      "title": "Cám ơn facebook",
+      "body": "Tuyệt vời,cám ơn facebook",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14795363706",
+      "date": "2026-11-15T22:15:30Z",
+      "rating": 5,
+      "title": "Growth my id",
+      "body": "Growth my ld",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14791447210",
+      "date": "2026-11-14T23:50:19Z",
+      "rating": 5,
+      "title": "Very",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14789231608",
+      "date": "2026-11-14T12:18:08Z",
+      "rating": 5,
+      "title": "의무적",
+      "body": "리뷰 강ㅇㅅ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14785547085",
+      "date": "2026-11-13T14:20:40Z",
+      "rating": 5,
+      "title": "late notification notifying",
+      "body": "late notification notifying",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14773524532",
+      "date": "2026-11-10T13:43:39Z",
+      "rating": 1,
+      "title": "광고 좀 없애라..",
+      "body": "무슨 1분에 1광고냐..",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14764669679",
+      "date": "2026-11-08T07:11:56Z",
+      "rating": 5,
+      "title": "좋아요",
+      "body": "굿",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14763345288",
+      "date": "2026-11-07T22:31:35Z",
+      "rating": 5,
+      "title": "woow",
+      "body": "so cute",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14761937589",
+      "date": "2026-11-07T15:05:06Z",
+      "rating": 5,
+      "title": "Thanks",
+      "body": "Thanks a lot",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

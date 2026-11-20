@@ -1,0 +1,103 @@
+{
+  "app_id": "389801252",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 320,
+  "observed_at_ms": 1795079730154,
+  "offset": 310,
+  "reviews": [
+    {
+      "body": "인스타를 사용하는데 평소 처럼 갑자기 계정에 뭐가 생겼다면서 디엠 금지,익명 하려면 링크를 써야 하는데 링크도 금지 스토리 본사람 도 못봄 근데 스토리 올리수는 있음 그전에도 그랬었는데 1달 참고 계속 했는데 이제는 진짜 안돼요 사람 갖고 장난치는것도 아니고 억까하네요",
+      "date": "2026-11-07T13:23:40Z",
+      "id": "14761570928",
+      "is_edited": false,
+      "rating": 1,
+      "title": "억까",
+      "user_name": "corisbe"
+    },
+    {
+      "body": "인스타에서 필터는 제가 제일 좋아하는 기능이었고 제일 재밌는 기능이었습니다 저 외모를 감싸 주는 유일한 진행이었는데 복구를 안 해 주시니까 너무 힘듭니다 친구들이랑 필터로 사진 찍으면서 돌리던 시절이 너무 그립네요 있어",
+      "date": "2026-11-07T13:11:32Z",
+      "id": "14761529030",
+      "is_edited": false,
+      "rating": 5,
+      "title": "필터 제발",
+      "user_name": "그린바나나야르"
+    },
+    {
+      "body": "부탁드립니다",
+      "date": "2026-11-07T13:07:31Z",
+      "id": "14761515004",
+      "is_edited": false,
+      "rating": 3,
+      "title": "화면 탭하였을때 멈추는거 다시 부탁드립니다",
+      "user_name": "이달의소녀"
+    },
+    {
+      "body": "Really good app to find good ppl and communities with everybody and everything throughout the entire world",
+      "date": "2026-11-07T12:49:47Z",
+      "id": "14761455507",
+      "is_edited": false,
+      "rating": 5,
+      "title": "Satisfied very much",
+      "user_name": "Ali_05!!!!!!"
+    },
+    {
+      "body": "릴스 화면 길게 누르면 정지되는 기능 잘쓰고 있었는데 복구해주세요. 탭 누르면 정지되는거 겁나 느리고 불편해요",
+      "date": "2026-11-07T12:36:06Z",
+      "id": "14761410268",
+      "is_edited": false,
+      "rating": 4,
+      "title": "릴스 일시정지 기능 복구해주세요",
+      "user_name": "Sinmango"
+    },
+    {
+      "body": "업뎃이후로 hdr이 사진 표시안됩니다",
+      "date": "2026-11-07T11:47:24Z",
+      "id": "14761258947",
+      "is_edited": false,
+      "rating": 5,
+      "title": "Hdr 보이지 않아요",
+      "user_name": "라인하르트A"
+    },
+    {
+      "body": "다좋은데 릴스볼때 원래 꾸욱 누르면 멈추는게 됏엇는데 오륜지 뭔진 모르겠지만 꾹 누르면 속도나 이런거 조절하는 화면이 떠요 빠른시일내에 처리 부탁드립니다 ㅜㅜㅜㅜㅜㅜㅜㅜㅜ",
+      "date": "2026-11-07T11:31:15Z",
+      "id": "14761211663",
+      "is_edited": false,
+      "rating": 5,
+      "title": "릴스 멈춤",
+      "user_name": "령렁령"
+    },
+    {
+      "body": "제가 그냥 틱톡 반모자랑 인스타 맞팔하려고 인스타 키니까 비활성화 됐데요 계정이 그래서 로그인을 했는데 로그인이 안돼요!!!!!!!!이거 안고치면 바로 신고 박을거임",
+      "date": "2026-11-07T11:12:28Z",
+      "id": "14761158273",
+      "is_edited": false,
+      "rating": 5,
+      "title": "ㅅㅂ 내가 뭘잘못했는데!!!",
+      "user_name": "로블이여 채팅을 풀어달라"
+    },
+    {
+      "body": "정리하려고 저장 취소하면 새로고침 되면서 다시 맨 위로 올라가는거 고쳐주세요 ㅠ\n그리고 저장된 게시물을 전체, 컬렉션 말고도 컬렉션에 포함되지 않은 게시물들만 보이게도 해주시면 좋겠어요",
+      "date": "2026-11-07T11:10:16Z",
+      "id": "14761152085",
+      "is_edited": false,
+      "rating": 3,
+      "title": "인스타 저장한 게시물",
+      "user_name": "물마신하마"
+    },
+    {
+      "body": "본계는 인스턴트가 안보여요 다 보이게해주세요",
+      "date": "2026-11-07T10:58:37Z",
+      "id": "14761119855",
+      "is_edited": false,
+      "rating": 3,
+      "title": "본계",
+      "user_name": "ㅗ얻ㅍ돚ㅎㄷ"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/389801252/reviews?platform=web&l=ko-KR&offset=310&limit=10&sort=recent"
+}

@@ -1,0 +1,103 @@
+{
+  "app_id": "328813873",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 370,
+  "observed_at_ms": 1795080178036,
+  "offset": 360,
+  "reviews": [
+    {
+      "body": "예전에는 전부 블로그앱으로 했는데. 광고 뜨는 것과 제가 이웃한 곳 글인줄 알고 들어갔다가 아닌 추천글이더군요. 자꾸 속고 추천글에 들어가서 짜증나 이제는 블로그 편집할때 이외에는 앱 안 씁니다.",
+      "date": "2026-01-07T02:58:56Z",
+      "id": "13603818977",
+      "is_edited": false,
+      "rating": 1,
+      "title": "광고와 추천글 때문에 이제는 블로그 앱 안 씁니다.",
+      "user_name": "파티마제로"
+    },
+    {
+      "body": "글 읽으면 밑에 있는 댓글, 좋아요 할 수 있는 부분이 글 중간에 올라와서 집중이 안돼요ㅜㅜㅜ 버그인지 기능인지 모르겠는데 너무 싫어요",
+      "date": "2026-01-06T23:00:26Z",
+      "id": "13603210013",
+      "is_edited": false,
+      "rating": 2,
+      "title": "블로그 글읽을때 밑에 있던 배너가 중간 쯤으로 안올라오게해주세여",
+      "user_name": "졔지"
+    },
+    {
+      "body": "네이버 리뉴얼 되고나서 네이버 지도 다음으로 찾기가 어려워요 적응될만한데, 손이 잘 안갑니다 ㅜㅜ",
+      "date": "2026-01-06T22:58:21Z",
+      "id": "13603204756",
+      "is_edited": false,
+      "rating": 5,
+      "title": "로고가 눈에 안띄어요",
+      "user_name": "우긩"
+    },
+    {
+      "body": "글쓰기왜안되는건징 ㅠ",
+      "date": "2026-01-05T12:40:38Z",
+      "id": "13597462078",
+      "is_edited": false,
+      "rating": 1,
+      "title": "블로그글쓰기가안되요",
+      "user_name": "Ddddaaadadad"
+    },
+    {
+      "body": "아이폰으로 블로그에서 클립 작성하면 다 튕깁니다 정말 불편해요",
+      "date": "2026-01-05T10:41:55Z",
+      "id": "13597127706",
+      "is_edited": false,
+      "rating": 1,
+      "title": "불편해서 못 쓰겠어요",
+      "user_name": "김꽃꽃이"
+    },
+    {
+      "body": "오류 나면서 등록 실패",
+      "date": "2026-01-05T10:38:23Z",
+      "id": "13597118763",
+      "is_edited": false,
+      "rating": 1,
+      "title": "아이폰13미니로 네이버블로그에서 클립 등록하면",
+      "user_name": "ririririjj"
+    },
+    {
+      "body": "ㅇㄴ 이거 왜 앱이 안열려요 계속 까만화면이고",
+      "date": "2026-01-05T04:54:44Z",
+      "id": "13596349461",
+      "is_edited": false,
+      "rating": 1,
+      "title": "🤬",
+      "user_name": "jshdhehxuajbhdyxuchabs"
+    },
+    {
+      "body": "갑자기 앱이 까만 화면만 뜨는데 뭐죠ㅠ 삭제 후 재설치도 소용없음",
+      "date": "2026-01-04T17:20:07Z",
+      "id": "13594384264",
+      "is_edited": false,
+      "rating": 1,
+      "title": "갑자기 안 켜짐",
+      "user_name": "로우123"
+    },
+    {
+      "body": "우승각",
+      "date": "2026-01-04T12:00:26Z",
+      "id": "13593319175",
+      "is_edited": false,
+      "rating": 1,
+      "title": "로고구림공모전 나가보세요",
+      "user_name": "남인식"
+    },
+    {
+      "body": "안녕하세요! 근 몇 년간 네이버 블로그를 애용하고 있습니다. 혹시 네이버 블로그 주소 재변경 횟수를 늘리거나 원래 주소로 복구하는 업데이트 계획은 없으신가요? ㅜㅜ 1회만 변경할 수 있는 면에서 불편함을 느꼈습니다. 항상 잘 사용하고 있습니다!",
+      "date": "2026-01-04T10:40:18Z",
+      "id": "13593100749",
+      "is_edited": false,
+      "rating": 5,
+      "title": "개선요청",
+      "user_name": "21wonder"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/328813873/reviews?platform=web&l=ko-KR&offset=360&limit=10&sort=recent"
+}

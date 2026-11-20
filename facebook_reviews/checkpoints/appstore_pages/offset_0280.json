@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 280,
+  "count": 10,
+  "next_offset": 290,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14203781333",
+      "date": "2026-06-20T03:53:41Z",
+      "rating": 5,
+      "title": "Entertainment",
+      "body": "Just great work",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14202798917",
+      "date": "2026-06-19T21:28:54Z",
+      "rating": 5,
+      "title": "너무합니다.ㅠㅠ",
+      "body": "여태써봐도 별루요.ㅠㅠ",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14201387583",
+      "date": "2026-06-19T13:58:28Z",
+      "rating": 5,
+      "title": "Nhận xét",
+      "body": "Rất thú vị tốt cho tôi kết bạn nhiều hơn biết nhiều thông tin bổ ích hơn",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14201249805",
+      "date": "2026-06-19T13:17:31Z",
+      "rating": 1,
+      "title": "계정 탈퇴 좀 시켜주세요",
+      "body": "몇 년 째 못하는 중 탈퇴 좀 해주세요",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14201198699",
+      "date": "2026-06-19T13:02:00Z",
+      "rating": 5,
+      "title": "ứng dụng có ích trong cuộc sống",
+      "body": "ích lợi cho thông tin truyền thông về mặt xã hội có nhiều tương tác các thông tin mới được cập nhật sớm nhất",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14197378501",
+      "date": "2026-06-18T13:37:39Z",
+      "rating": 1,
+      "title": "광고가 너무 많아요.",
+      "body": "광고가 너무 많아요.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14196422986",
+      "date": "2026-06-18T07:35:41Z",
+      "rating": 5,
+      "title": "이름 을 개명했는데",
+      "body": "아티스트인데 \n예명으로 작가활동을 하다가 이름을 개명해서 활동하고 있는데 메인 화면의 이름을 바꿀 수 있으면 좋겠어요 ^^\n잘 활용하고 있어요 \n고맙습니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14192006344",
+      "date": "2026-06-17T03:49:27Z",
+      "rating": 1,
+      "title": "릴스를 너무 강요합니다.",
+      "body": "결국 facebook 삭제했습니다. \n아무리 설정해도 자동으로 실행되는 릴스와 앱 시작시 첫 화면이 릴스. \n그래서 앱을 삭제합니다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14185444755",
+      "date": "2026-06-15T12:34:23Z",
+      "rating": 5,
+      "title": "편리해요",
+      "body": "유익해요 It is very good ~~",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "14184883097",
+      "date": "2026-06-15T08:58:09Z",
+      "rating": 1,
+      "title": "릴스 짜증난다",
+      "body": "릴스 차단 좀 하게  옵션 좀 만들어라",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

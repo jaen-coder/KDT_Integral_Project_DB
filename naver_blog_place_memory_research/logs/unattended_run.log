@@ -1,0 +1,6 @@
+[2026-11-19T21:49:06] START unattended pipeline
+[2026-11-19T21:49:06] run_id=place_memory_naver_blog_20261119_214706 jobs=220 kw=10 months=22
+[2026-11-19T23:54:36] Collection finished
+[2026-11-19T23:54:36] Export + collection_report
+[2026-11-19T23:54:40] QA report
+[2026-11-19T23:55:01] DONE all outputs written

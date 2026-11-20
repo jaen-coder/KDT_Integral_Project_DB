@@ -1,0 +1,111 @@
+{
+  "app_id": "284882215",
+  "offset": 390,
+  "count": 10,
+  "next_offset": 400,
+  "sort": "most_recent",
+  "country": "kr",
+  "reviews": [
+    {
+      "id": "14004745085",
+      "date": "2026-04-28T05:23:01Z",
+      "rating": 1,
+      "title": "잃어버린 십이년을 다시 찾았습니다",
+      "body": "12 년전 사진과 글을 읽을 수 있도록 해 주셔서 감사합니다",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13998344366",
+      "date": "2026-04-26T09:17:18Z",
+      "rating": 1,
+      "title": "Cập nhật cái qc ngoo học",
+      "body": "Như tiêu đề",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13997837427",
+      "date": "2026-04-26T05:16:15Z",
+      "rating": 5,
+      "title": "Hay",
+      "body": "Quá tốt",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13995349095",
+      "date": "2026-04-25T13:03:41Z",
+      "rating": 5,
+      "title": "Cuộc sống",
+      "body": "Thú vị ,hay , được biết nhiều qua nền tảng Facebook",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13994401403",
+      "date": "2026-04-25T06:19:11Z",
+      "rating": 5,
+      "title": "뀨",
+      "body": "뀨 짱 야",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13994282132",
+      "date": "2026-04-25T05:20:28Z",
+      "rating": 1,
+      "title": "ทำงานห่วยมาก",
+      "body": "ช่วงนี้ชอบปิดเฟสคนไปทั่วเลย ใช้AI ทำง่นแล้วงานห่วยแตกขึ้นเยอะมาก ใช้งานมา10ปี ความทรงจำหายไปหมดปล้ว",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13994175805",
+      "date": "2026-04-25T04:27:26Z",
+      "rating": 5,
+      "title": "G",
+      "body": "Good",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13993846293",
+      "date": "2026-04-25T01:56:44Z",
+      "rating": 5,
+      "title": "김은영 입니다.❤️",
+      "body": "어디세요?",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13993294483",
+      "date": "2026-04-24T21:57:33Z",
+      "rating": 5,
+      "title": "일상",
+      "body": "삶의 일상을 소소히 나눌 수 있어 좋다.",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    },
+    {
+      "id": "13990855991",
+      "date": "2026-04-24T05:30:15Z",
+      "rating": 5,
+      "title": "jay",
+      "body": "bhagawan",
+      "is_edited": false,
+      "version": "",
+      "voteSum": ""
+    }
+  ],
+  "source_url": "https://apps.apple.com/kr/app/facebook/id284882215?see-all=reviews&sort=recent"
+}

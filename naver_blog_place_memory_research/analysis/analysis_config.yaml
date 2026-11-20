@@ -1,0 +1,43 @@
+run_id: "place_memory_concept_analysis_20261120"
+random_seed: 20261120
+timezone: "Asia/Seoul"
+
+source:
+  data_dir: "../data"
+  config_path: "../config.yaml"
+  collection_report: "../collection_report.md"
+  qa_report: "../qa_report.md"
+  # Prefer CSV as canonical full-text source; Excel may truncate bodies.
+  primary_posts: "posts.csv"
+  primary_comments: "comments.csv"
+  primary_search_hits: "search_hits.csv"
+  primary_monthly_summary: "monthly_summary.csv"
+  excel_reference_only: "research_dataset.xlsx"
+
+period:
+  start: "2025-01-01"
+  end: "2026-10-31"
+
+corpus:
+  # Primary analysis corpus
+  require_extraction_success: true
+  require_date_in_period: true
+  analysis_eligible_values: ["포함"]
+  content_type_values: ["개인 경험"]
+  # Sensitivity / comparison corpora
+  mixed_eligible_values: ["검토 필요"]
+  mixed_content_types: ["혼합"]
+
+coding:
+  method: "rule_based_phrase_patterns_v1"
+  model: null
+  prompt_version: null
+  note: "규칙 기반 구문·문장 패턴 매칭. 생성형 AI 분류 미사용."
+
+review:
+  sample_size: 50
+  stratify_themes: true
+
+outputs:
+  charts_dir: "charts"
+  logs_dir: "logs"

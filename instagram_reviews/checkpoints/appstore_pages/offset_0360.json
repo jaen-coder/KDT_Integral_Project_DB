@@ -1,0 +1,103 @@
+{
+  "app_id": "389801252",
+  "count": 10,
+  "country": "kr",
+  "limit": 10,
+  "next_offset": 370,
+  "observed_at_ms": 1795079730182,
+  "offset": 360,
+  "reviews": [
+    {
+      "body": "남친이랑 썸탈때 나눴던 대화내용 보고싶은데 올리기 너무 힘들어서 ㅠㅠ 카카오톡 처럼 날짜 선택 하면 그날 대화내용들 볼 수 있게 해주실 수 있나용..🥹",
+      "date": "2026-11-06T09:49:19Z",
+      "id": "14756921547",
+      "is_edited": false,
+      "rating": 5,
+      "title": "카카오톡 처럼 디엠 날짜 선택",
+      "user_name": "◟( ˘ ³˘)◞ ♡"
+    },
+    {
+      "body": "저 만 15세 이상이고 아무것도 한 게 없거든요 근데 만 14세 미만이라고 강제 탈퇴됐어요 이의제기도 못하고 재검토도 못 한대요 억울한 사람들 많는데 계정 복구 좀 해주시죠 영어로도 써드릴까요? I'm over 15, and I haven't done anything But I was forcibly removed because I'm under 14 They say I can't even file an objection or request a review. There are many people who feel wronged, so please restore my account please. 제발 좀 복구해주세요",
+      "date": "2026-11-06T09:23:53Z",
+      "id": "14756862124",
+      "is_edited": false,
+      "rating": 1,
+      "title": "계정 돌려주세요",
+      "user_name": "니얼내얼"
+    },
+    {
+      "body": "업데이트 하고나서 이어폰 착용 시 볼륨이 이상해요\n볼륨 한 칸 켰는데 10칸짜리 소리가 납니다",
+      "date": "2026-11-06T07:50:39Z",
+      "id": "14756657302",
+      "is_edited": false,
+      "rating": 1,
+      "title": "볼륨",
+      "user_name": "업데이트좀똑바로해라짜증나네"
+    },
+    {
+      "body": "릴스 소리 꺼져있는데도 노래 자꾸 꺼져서 다시 켜야되고 불편해요ㅡㅡ",
+      "date": "2026-11-06T07:14:28Z",
+      "id": "14756580684",
+      "is_edited": false,
+      "rating": 5,
+      "title": "노래 듣다가 인스타 들어가면 노래 끊기는것좀 빨리 고쳐주세요ㅠ",
+      "user_name": "댕토리"
+    },
+    {
+      "body": "릴스 조회수좀 신경서주세요",
+      "date": "2026-11-06T05:17:37Z",
+      "id": "14756339369",
+      "is_edited": false,
+      "rating": 5,
+      "title": "굿굿",
+      "user_name": "너우옹"
+    },
+    {
+      "body": "앱 실행하고 있을때 갑자기 디엠 푸시알림 오는거 진짜 거슬려요 알림을 꺼도 왜 이거만 난리임? 그리고 앱실행하면 갑자기 왜 듣던 노래 꺼짐?",
+      "date": "2026-11-06T04:42:52Z",
+      "id": "14756265874",
+      "is_edited": false,
+      "rating": 3,
+      "title": "갑자기 왜 난리죠?",
+      "user_name": "머지겜광인"
+    },
+    {
+      "body": "컬렉션 저장할때 뒤늦게 다른 계정 추가도 할수있게 해주세요\n부탁드려용~~~!!!",
+      "date": "2026-11-06T03:01:22Z",
+      "id": "14756034235",
+      "is_edited": false,
+      "rating": 1,
+      "title": "[수정사항] 컬렉션 저장할때 뒤늦게 다른 계정 추가도 할수있게 해주세요",
+      "user_name": "진짜 필요할때만 리뷰 남김"
+    },
+    {
+      "body": "진짜이건좀아닌거같아요 제발 2022년 감성으로 돌앙와 캡쳐는 왜막으시는거에요 사라지는 메시지 그딴거 망들어서 뮤ㅓ합니까.. 렉이나 고쳐주세요 제발 plz.. 이유없이 영정을 왜 먹이세요….. 업데이트를 해더 버그는 왜항상 되서 디엠창이 안떠요......",
+      "date": "2026-11-05T23:27:54Z",
+      "id": "14755485167",
+      "is_edited": false,
+      "rating": 5,
+      "title": "⠀제발",
+      "user_name": "lixnkzlx"
+    },
+    {
+      "body": "아니 갑자기 14세 미만이라고 영구정지를 처해요",
+      "date": "2026-11-05T23:19:10Z",
+      "id": "14755462608",
+      "is_edited": false,
+      "rating": 1,
+      "title": "14세미만은 쓰지 말라는거임?",
+      "user_name": "유튜브로블록스관리자일안하냐"
+    },
+    {
+      "body": "아니 필터좀 돌려주세요 ㅠ\n필터 없으니깐 너무 불편합니다...\n진짜 이건 아니2지!!!",
+      "date": "2026-11-05T22:17:00Z",
+      "id": "14755302697",
+      "is_edited": false,
+      "rating": 5,
+      "title": "필터좀...",
+      "user_name": "이건 아니2지"
+    }
+  ],
+  "sort": "most_recent",
+  "source_url": "https://apps.apple.com/api/apps/v1/catalog/kr/apps/389801252/reviews?platform=web&l=ko-KR&offset=360&limit=10&sort=recent"
+}
