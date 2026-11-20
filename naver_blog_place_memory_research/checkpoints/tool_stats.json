@@ -1,0 +1,8 @@
+{
+  "playwright_search_calls": 220,
+  "http_postview_calls": 1331,
+  "reaction_api_calls": 1331,
+  "comment_api_calls": 974,
+  "firecrawl_calls": 0,
+  "blocked_paths": []
+}
