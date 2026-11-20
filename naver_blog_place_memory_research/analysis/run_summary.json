@@ -1,0 +1,56 @@
+{
+  "core_posts": 843,
+  "core_authors": 764,
+  "comments_in_period": 4550,
+  "top_themes": [
+    {
+      "theme_label": "사진·포토 기록",
+      "mention_posts": 604,
+      "positive_posts": 175
+    },
+    {
+      "theme_label": "음식·맛집",
+      "mention_posts": 564,
+      "positive_posts": 457
+    },
+    {
+      "theme_label": "카페·커피 공간",
+      "mention_posts": 501,
+      "positive_posts": 177
+    },
+    {
+      "theme_label": "친구·만남",
+      "mention_posts": 464,
+      "positive_posts": 122
+    },
+    {
+      "theme_label": "여행·나들이",
+      "mention_posts": 367,
+      "positive_posts": 107
+    }
+  ],
+  "concepts": [
+    {
+      "id": "C1",
+      "name": "가까운 장소의 일상 발견",
+      "posts": 552,
+      "status": "탐색 후보"
+    },
+    {
+      "id": "C2",
+      "name": "사진으로 붙잡는 일상 회상",
+      "posts": 690,
+      "status": "탐색 후보"
+    },
+    {
+      "id": "C3",
+      "name": "공간에서 느낀 감정의 짧은 남김",
+      "posts": 575,
+      "status": "추가 검증 필요"
+    }
+  ],
+  "priority": [
+    "C1",
+    "C2"
+  ]
+}
